@@ -1,5 +1,11 @@
 [
   {
+    "cat": "Home",
+    "name": "ROBY GAMING LAUNCHER",
+    "desc": "Pilih kategori di atas atau cari game favoritmu melalui sidebar.\nJangan lupa klik REFRESH jika data belum muncul!",
+    "status": "Update Terbaru: Mod The Sims 4 Bahasa Indonesia sudah rilis!"
+  },
+  {
     "name": "The Sims 5 5 5",
     "cat": "Game",
     "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
@@ -57,4 +63,5 @@
     ]
   }
 ]
+
 
