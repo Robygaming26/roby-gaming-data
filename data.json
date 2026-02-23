@@ -3,7 +3,8 @@
     "cat": "Home",
     "name": "ROBY GAMING LAUNCHER",
     "desc": "Pilih kategori di atas atau cari game favoritmu melalui sidebar.\nJangan lupa klik REFRESH jika data belum muncul!",
-    "status": "Update Terbaru: Mod The Sims 4 Bahasa Indonesia sudah rilis!"
+    "status": "Update Terbaru: Mod The Sims 4 Bahasa Indonesia sudah rilis!",
+    "date": "23 Februari 2026"
   },
   {
     "name": "The Sims 5 5 5",
@@ -26,42 +27,61 @@
       "Trailer Resmi",
       "Gameplay Review"
     ],
-      "links": [
+    "links": [
       "https://example.com/sims4-part1.exe",
       ""
     ]
   },
   {
-    "name": "The Witcher 3",
+    "name": "The Sims 5 5 5",
     "cat": "Game",
-    "desc": "Petualangan Geralt of Rivia dalam dunia open world yang luas dan penuh monster.",
-    "header": "https://images7.alphacoders.com/593/593164.jpg",
+    "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
+    "header": "",
     "screenshots": [
-      "https://images2.alphacoders.com/606/606137.jpg",
-      "https://images5.alphacoders.com/605/605344.jpg"
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "video": [
+      "",
       ""
     ],
     "video_titles": [
-      "Video Tidak Tersedia"
+      "Trailer Resmi",
+      "Gameplay Review"
     ],
     "links": [
-      "https://example.com/witcher3-full.exe"
+      "",
+      ""
     ]
   },
   {
-    "name": "MemReduct",
-    "cat": "Tools",
-    "desc": "Tool ringan untuk membersihkan RAM agar gaming lebih lancar di laptop kamu.",
-    "header": "https://images.alphacoders.com/134/1340443.png",
+    "name": "The Sims 5 5 5",
+    "cat": "Game",
+    "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
+    "header": "",
     "screenshots": [
-      "https://www.henrypp.org/static/bin/memreduct/screenshot.png"
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "video": [
+      "",
+      ""
+    ],
+    "video_titles": [
+      "",
+      ""
     ],
     "links": [
-      "https://github.com/henrypp/memreduct/releases"
+      "",
+      ""
     ]
   }
 ]
-
-
