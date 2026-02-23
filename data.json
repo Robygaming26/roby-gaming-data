@@ -14,9 +14,6 @@
     "screenshots": [
       "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
       "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
-      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
-      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
-      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
       "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215"
     ],
     "video": [
@@ -26,6 +23,10 @@
     "video_titles": [
       "Trailer Resmi",
       "Gameplay Review"
+    ],
+    "video_embed": [
+    "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4",
+    "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4"
     ],
     "links": [
       "https://example.com/sims4-part1.exe",
@@ -53,6 +54,10 @@
       "Trailer Resmi",
       "Gameplay Review"
     ],
+    "video_embed": [
+    "",
+    ""
+    ],
     "links": [
       "",
       ""
@@ -78,6 +83,10 @@
     "video_titles": [
       "",
       ""
+    ],
+    "video_embed": [
+    "",
+    ""
     ],
     "links": [
       "",
