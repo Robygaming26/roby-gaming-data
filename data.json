@@ -1,0 +1,45 @@
+[
+  {
+    "name": "The Sims 4",
+    "cat": "Game",
+    "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
+    "header": "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+    "screenshots": [
+      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215"
+    ],
+    "links": [
+      "https://example.com/sims4-part1.exe",
+      "https://example.com/sims4-part2.exe"
+    ]
+  },
+  {
+    "name": "The Witcher 3",
+    "cat": "Game",
+    "desc": "Petualangan Geralt of Rivia dalam dunia open world yang luas dan penuh monster.",
+    "header": "https://images7.alphacoders.com/593/593164.jpg",
+    "screenshots": [
+      "https://images2.alphacoders.com/606/606137.jpg",
+      "https://images5.alphacoders.com/605/605344.jpg"
+    ],
+    "links": [
+      "https://example.com/witcher3-full.exe"
+    ]
+  },
+  {
+    "name": "MemReduct",
+    "cat": "Tools",
+    "desc": "Tool ringan untuk membersihkan RAM agar gaming lebih lancar di laptop kamu.",
+    "header": "https://images.alphacoders.com/134/1340443.png",
+    "screenshots": [
+      "https://www.henrypp.org/static/bin/memreduct/screenshot.png"
+    ],
+    "links": [
+      "https://github.com/henrypp/memreduct/releases"
+    ]
+  }
+]
