@@ -36,11 +36,12 @@
     },
     {
         "name": "Tester",
-        "cat": "Game",
+        "cat": "Mod/Cheat",
         "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
         "header": "",
         "links": [
-            "https://www.youtube.com/@robygaming26 https://gemini.google.com/app/7fbaeff646d8fceb?hl=id"
+            "https://www.youtube.com/@robygaming26",
+            "https://gemini.google.com/app/7fbaeff646d8fceb?hl=id"
         ],
         "video": "{} {}",
         "screenshots": []
