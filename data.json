@@ -2,9 +2,11 @@
     {
         "name": "ROBY GAMING LAUNCHER",
         "cat": "Home",
-        "desc": "Pilih kategori di atas atau cari game favoritmu melalui sidebar.\nJangan lupa klik REFRESH jika data belum muncul!\n\nAwal Penggunaan Aplikai Akan Cukup Berat\nJadi di idle kan saja agar aplikasi beradaptasi.",
+        "desc": "Pilih kategori di atas atau cari game favoritmu melalui sidebar.\nBisa juga menggunakan fitur pencarian.\n\nCek dipojok kiri bawah, kalau masih ada keterangannya memuat...\nArtinya Launcher masih berusaha beradaptasi di diamkan saja aplikasi ini sampai prosesnya selesai.",
         "header": "",
-        "screenshots": [],
+        "screenshots": [
+            "https://tenor.com/id/view/\u043c\u0430\u0445\u043e\u0440\u0430\u0433\u0430-mahoraga-\u043c\u0430\u043a\u043e\u0440\u0430-makora-jjk-gif-5830410404700543547"
+        ],
         "links": [],
         "links_titles": [],
         "links_ori": [],
