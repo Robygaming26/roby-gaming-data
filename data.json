@@ -161,8 +161,14 @@
             "dapatkan Di Steam",
             "Download Server Meong Club - 1.48 GB"
         ],
-        "video": [],
-        "video_titles": [],
+        "video": [
+            "https://web.facebook.com/share/v/1HVkUcvo97/",
+            "https://youtu.be/KCzVY97rKR8"
+        ],
+        "video_titles": [
+            "facebook",
+            "youtube"
+        ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "24 Februari 2026"
     },
