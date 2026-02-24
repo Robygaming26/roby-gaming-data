@@ -48,32 +48,17 @@
     },
     {
         "name": "The Sims 5 5 5",
-        "cat": "Game",
+        "cat": "Software",
         "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
         "header": "",
-        "screenshots": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "video": [
-            "",
-            ""
-        ],
-        "video_titles": [
-            "",
-            ""
-        ],
-        "links": [
-            "",
-            ""
-        ],
+        "screenshots": [],
+        "links": [],
         "links_ori": [
-            "https://example.com/sims4-part1.exe",
-            ""
-        ]
+            "https://example.com/sims4-part1.exe"
+        ],
+        "video": [],
+        "video_titles": [],
+        "status": "",
+        "date": ""
     }
 ]
