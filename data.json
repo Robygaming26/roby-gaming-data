@@ -28,6 +28,10 @@
     "links": [
       "https://example.com/sims4-part1.exe",
       ""
+    ],
+    "links_ori": [
+      "https://example.com/sims4-part1.exe",
+      ""
     ]
   },
   {
@@ -54,6 +58,10 @@
     "links": [
       "",
       ""
+    ],
+    "links_ori": [
+      "https://example.com/sims4-part1.exe",
+      ""
     ]
   },
   {
@@ -79,6 +87,10 @@
     ],
     "links": [
       "",
+      ""
+    ],
+    "links_ori": [
+      "https://example.com/sims4-part1.exe",
       ""
     ]
   }
