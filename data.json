@@ -230,7 +230,10 @@
             "https://web.facebook.com/share/v/1DiRJiFmsn/",
             "https://youtu.be/9WBUXn-IK2M"
         ],
-        "video_titles": [],
+        "video_titles": [
+            "Facebok",
+            "Youtube"
+        ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "24 Februari 2026"
     }
