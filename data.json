@@ -1,98 +1,79 @@
 [
-  {
-    "cat": "Home",
-    "name": "ROBY GAMING LAUNCHER",
-    "desc": "Pilih kategori di atas atau cari game favoritmu melalui sidebar.\nJangan lupa klik REFRESH jika data belum muncul!",
-    "status": "Update Terbaru: Mod The Sims 4 Bahasa Indonesia sudah rilis!",
-    "date": "23 Februari 2026"
-  },
-  {
-    "name": "The Sims 5 5 5",
-    "cat": "Game",
-    "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
-    "header": "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
-    "screenshots": [
-      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
-      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
-      "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215"
-    ],
-    "video": [
-      "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4",
-      "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4",
-      "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4"
-    ],
-    "video_titles": [
-      "Trailer Resmi",
-      "Gameplay Review"
-    ],
-    "links": [
-      "https://example.com/sims4-part1.exe",
-      ""
-    ],
-    "links_ori": [
-      "https://www.youtube.com/@robygaming26",
-      ""
-    ]
-  },
-  {
-    "name": "The Sims 5 5 5",
-    "cat": "Game",
-    "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
-    "header": "",
-    "screenshots": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "video": [
-      "",
-      ""
-    ],
-    "video_titles": [
-      "Trailer Resmi",
-      "Gameplay Review"
-    ],
-    "links": [
-      "",
-      ""
-    ],
-    "links_ori": [
-      "https://example.com/sims4-part1.exe",
-      ""
-    ]
-  },
-  {
-    "name": "The Sims 5 5 5",
-    "cat": "Game",
-    "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
-    "header": "",
-    "screenshots": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "video": [
-      "",
-      ""
-    ],
-    "video_titles": [
-      "",
-      ""
-    ],
-    "links": [
-      "",
-      ""
-    ],
-    "links_ori": [
-      "https://example.com/sims4-part1.exe",
-      ""
-    ]
-  }
+    {
+        "cat": "Home",
+        "name": "ROBY GAMING LAUNCHER",
+        "desc": "Pilih kategori di atas atau cari game favoritmu melalui sidebar.\nJangan lupa klik REFRESH jika data belum muncul!",
+        "status": "Update Terbaru: Mod The Sims 4 Bahasa Indonesia sudah rilis!",
+        "date": "23 Februari 2026"
+    },
+    {
+        "name": "The Sims 5 5 5",
+        "cat": "Game",
+        "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
+        "header": "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+        "screenshots": [
+            "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+            "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
+            "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215"
+        ],
+        "video": [
+            "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4",
+            "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4",
+            "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4"
+        ],
+        "video_titles": [
+            "Trailer Resmi",
+            "Gameplay Review"
+        ],
+        "links": [
+            "https://example.com/sims4-part1.exe",
+            ""
+        ],
+        "links_ori": [
+            "https://www.youtube.com/@robygaming26",
+            ""
+        ]
+    },
+    {
+        "name": "Tester",
+        "cat": "Game",
+        "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
+        "header": "",
+        "links": [
+            "",
+            ""
+        ],
+        "video": "{} {}",
+        "screenshots": []
+    },
+    {
+        "name": "The Sims 5 5 5",
+        "cat": "Game",
+        "desc": "Simulasi kehidupan di mana kamu bisa membuat karakter dan membangun rumah impian.\n\nStatus: Terinstall",
+        "header": "",
+        "screenshots": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "video": [
+            "",
+            ""
+        ],
+        "video_titles": [
+            "",
+            ""
+        ],
+        "links": [
+            "",
+            ""
+        ],
+        "links_ori": [
+            "https://example.com/sims4-part1.exe",
+            ""
+        ]
+    }
 ]
-
