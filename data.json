@@ -68,7 +68,7 @@
         ],
         "links_titles": [
             "Download Di Steam",
-            "Download 4.4 GB"
+            "Download Server Mediafire 4.4 GB"
         ],
         "links_ori": [
             "https://store.steampowered.com/app/2510130/Auto_Sale_Life/",
@@ -76,10 +76,16 @@
         ],
         "links_ori_titles": [
             "Download Di Steam",
-            "Download 4.4 GB"
+            "Download Server Mediafire 4.4 GB"
         ],
-        "video": [],
-        "video_titles": [],
+        "video": [
+            "https://web.facebook.com/share/v/1GXxoqxV9P/",
+            "https://youtu.be/6i6jb2v-uBQ"
+        ],
+        "video_titles": [
+            "Facebook",
+            "Youtube"
+        ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "24 Februari 2026"
     },
