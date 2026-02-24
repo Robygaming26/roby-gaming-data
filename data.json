@@ -16,6 +16,12 @@
             "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215",
             "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FavleiwdF2ZbltAnyaVaqYk.Tumbnail.093956.jpg&appVersion=1.000131&signature=ecbe0152697e1ec463bbe407756d81bc9b6b073187745efbb4848db55bdbb215"
         ],
+        "links": [
+            "https://example.com/sims4-part1.exe"
+        ],
+        "links_ori": [
+            "https://www.youtube.com/@robygaming26"
+        ],
         "video": [
             "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4",
             "https://youtu.be/T087usH-eX4?si=JZcVU2eIBppJ4Zd4",
@@ -25,14 +31,8 @@
             "Trailer Resmi",
             "Gameplay Review"
         ],
-        "links": [
-            "https://example.com/sims4-part1.exe",
-            ""
-        ],
-        "links_ori": [
-            "https://www.youtube.com/@robygaming26",
-            ""
-        ]
+        "status": "",
+        "date": "Diperbarui : 24 Februari 2026"
     },
     {
         "name": "Tester",
