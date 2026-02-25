@@ -421,5 +421,30 @@
         ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": ""
+    },
+    {
+        "name": "Emulator GBA (Game Boy Advance)",
+        "cat": "Software",
+        "desc": "Platform: Pc (Emulator GBA)\nSize: 16 MB\nInclude: -\n\nEmulator untuk pc, agar bisa menjalankan game GBA (Game Boy Advance)\n\nGame Bajakan: Tidak Disarankan, Pilih Salah Satu Link antara steam atau bajakan.\nNote: \n- Untuk Link Game Bajakan Roby Gaming tidak Bertanggung Jawab Apabila disuatu hari ada masalah. Pastikan Kalian Mendownload Di Store Terpercaya.\n- Jika ada kendala seperti susah download melewati safelinku kalian bisa cek \"Kategori Bantuan\" di atas.\n- jika tidak tau cara install kalian bisa masuk \"Lapor Link Rusak\"",
+        "header": "",
+        "screenshots": [
+            "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2F2vO0jRe0cT4WqNwFJn52T9.Tumbnail.101025.jpg&appVersion=1.000131&signature=6c9d31ec972be6de4852e470731f74a765d25027c7798927b2925f26525872d8"
+        ],
+        "links": [
+            "https://sfl.gl/7BkC"
+        ],
+        "links_titles": [
+            "Download sekarang"
+        ],
+        "links_ori": [
+            "https://www.mediafire.com/file/99rlhnzj105xfrv/visualboyadvance-m-Win-x86_64.zip/file"
+        ],
+        "links_ori_titles": [
+            "Download sekarang"
+        ],
+        "video": [],
+        "video_titles": [],
+        "status": "Full release (Sudah Tidak Ada Update Besar)",
+        "date": "25 Februari 2026"
     }
 ]
