@@ -719,5 +719,43 @@
         "video_titles": [],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "25 Februari 2026"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "cat": "Game",
+        "desc": "Platform: Pc\nSize: 80 GB\nInclude: -\n\nHogwarts Legacy adalah RPG aksi dunia terbuka yang imersif. Kini Anda dapat mengendalikan aksi dan menjadi pusat petualangan Anda sendiri di dunia sihir\n\nGame Bajakan: Tidak Disarankan, Pilih Salah Satu Link antara steam atau bajakan.\nNote: \n- Untuk Link Game Bajakan Roby Gaming tidak Bertanggung Jawab Apabila disuatu hari ada masalah. Pastikan Kalian Mendownload Di Store Terpercaya.\n- Jika ada kendala seperti susah download melewati safelinku kalian bisa cek \"Kategori Bantuan\" di atas.\n- jika tidak tau cara install kalian bisa masuk \"Lapor Link Rusak\"",
+        "header": "",
+        "screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1765473525",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.1920x1080.jpg?t=1765473525",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1765473525",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.1920x1080.jpg?t=1765473525",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.1920x1080.jpg?t=1765473525",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_d4930d675af053dc1e61a876a34fc003e85e261f.1920x1080.jpg?t=1765473525"
+        ],
+        "links": [
+            "Download Di Steam",
+            "download server dodi-repacks - 80 gb"
+        ],
+        "links_titles": [
+            "https://store.steampowered.com/app/990080/Hogwarts_Legacy/",
+            "https://dodi-repacks.site/hogwarts-legacy/"
+        ],
+        "links_ori": [
+            "https://store.steampowered.com/app/990080/Hogwarts_Legacy/",
+            "https://dodi-repacks.site/hogwarts-legacy/"
+        ],
+        "links_ori_titles": [
+            "Download Di Steam",
+            "download server dodi-repacks - 80 gb"
+        ],
+        "video": [
+            "https://youtu.be/Px4w5kKSZTo"
+        ],
+        "video_titles": [
+            "youtube"
+        ],
+        "status": "Full release (Sudah Tidak Ada Update Besar)",
+        "date": "25 Februari 2026"
     }
 ]
