@@ -596,5 +596,30 @@
         "video_titles": [],
         "status": "Stabil (Versi Ini Aman)",
         "date": "25 Februari 2026"
+    },
+    {
+        "name": "Emulator Yuzu Prodkeys v21",
+        "cat": "Software",
+        "desc": "Platform: Pc\nSize: 11 KB\nInclude: -\n\nKalau Yuzu adalah emulator, kalau firmware adalah otak mesin, maka prodkeys adalah file verifikasi agar emulator dan firmware saling mengenali.\n\nGame Bajakan: Tidak Disarankan, Pilih Salah Satu Link antara steam atau bajakan.\nNote: \n- Untuk Link Game Bajakan Roby Gaming tidak Bertanggung Jawab Apabila disuatu hari ada masalah. Pastikan Kalian Mendownload Di Store Terpercaya.\n- Jika ada kendala seperti susah download melewati safelinku kalian bisa cek \"Kategori Bantuan\" di atas.\n- jika tidak tau cara install kalian bisa masuk \"Lapor Link Rusak\"",
+        "header": "",
+        "screenshots": [
+            "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FIkDXyh7pUW4hMSHqgb-uae.Tumbnail.101255.jpg&appVersion=1.000131&signature=5932e759811cde5d8a8aa805f31d4cc9676a2e55c23a1009e5f9d5a881856aee"
+        ],
+        "links": [
+            "https://sfl.gl/10gmdJq3"
+        ],
+        "links_titles": [
+            "download server google drive - 11 KB"
+        ],
+        "links_ori": [
+            "https://drive.google.com/file/d/1tW5kbKy1cnd8cfgXbT4ygdp1ZzNcyuOo/view?usp=drive_link"
+        ],
+        "links_ori_titles": [
+            "download server google drive - 11 KB"
+        ],
+        "video": [],
+        "video_titles": [],
+        "status": "Stabil (Versi Ini Aman)",
+        "date": "25 Februari 2026"
     }
 ]
