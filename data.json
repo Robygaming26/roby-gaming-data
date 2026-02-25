@@ -715,8 +715,12 @@
         "links_ori_titles": [
             "download server mediafire - 5 mb"
         ],
-        "video": [],
-        "video_titles": [],
+        "video": [
+            "https://www.youtube.com/watch?v=qtUEb63Cla8&pp=ygUtdHJhaWxlciBHQkEtR2FtZXMgUG9rZW1vbiAtIEZpcmUgUmVkIFZlcnNpb24g"
+        ],
+        "video_titles": [
+            "youtube"
+        ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "25 Februari 2026"
     },
