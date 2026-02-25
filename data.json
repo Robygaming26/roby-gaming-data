@@ -446,5 +446,30 @@
         "video_titles": [],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "25 Februari 2026"
+    },
+    {
+        "name": "Emulator John GBA (Game Boy Advance)",
+        "cat": "Software",
+        "desc": "Platform: Android Mobile (Emulator GBA)\nSize: -\nInclude: -\n\nMainkam Game GBA, di Android ",
+        "header": "",
+        "screenshots": [
+            "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FFbSflfHXi34Oe6fTKcyte1.Tumbnail.101042.png&appVersion=1.000131&signature=88431642d7dca5225438617c6fd9f9629af1ac5e2578cf7b18283986becce64a"
+        ],
+        "links": [
+            "https://play.google.com/store/apps/details?id=com.johnemulators.johngba"
+        ],
+        "links_titles": [
+            "Download Emulator John"
+        ],
+        "links_ori": [
+            "https://play.google.com/store/apps/details?id=com.johnemulators.johngba"
+        ],
+        "links_ori_titles": [
+            "Download Emulator John"
+        ],
+        "video": [],
+        "video_titles": [],
+        "status": "Full release (Sudah Tidak Ada Update Besar)",
+        "date": "25 Februari 2026"
     }
 ]
