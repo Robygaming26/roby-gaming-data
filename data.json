@@ -690,8 +690,12 @@
             "Download Di Steam",
             "download server steamunlocked - 3.78 GB"
         ],
-        "video": [],
-        "video_titles": [],
+        "video": [
+            "https://www.youtube.com/watch?v=JukwllD1Tvk"
+        ],
+        "video_titles": [
+            "youtube"
+        ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "25 Februari 2026"
     },
