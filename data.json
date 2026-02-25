@@ -30,10 +30,20 @@
             "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857090/b1e0fdf858e3bc0305ba5abbab518aa0c561b0cd/ss_b1e0fdf858e3bc0305ba5abbab518aa0c561b0cd.1920x1080.jpg?t=1771841954",
             "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857090/da52723398a4b07b49d50751f3772e2862feba86/ss_da52723398a4b07b49d50751f3772e2862feba86.1920x1080.jpg?t=1771841954"
         ],
-        "links": [],
-        "links_titles": [],
-        "links_ori": [],
-        "links_ori_titles": [],
+        "links": [
+            "#",
+            "#"
+        ],
+        "links_titles": [
+            "tester"
+        ],
+        "links_ori": [
+            "#",
+            "#"
+        ],
+        "links_ori_titles": [
+            "tester"
+        ],
         "video": [
             "https://www.youtube.com/@robygaming26",
             "https://web.facebook.com/profile.php?id=61573678185147",
