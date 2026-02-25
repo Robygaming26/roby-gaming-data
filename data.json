@@ -127,8 +127,12 @@
             "Download v1.9.0 Server FileCr  - 3.5 GB",
             "Download v1.9.0 Server Mediafire - 3.5 GB"
         ],
-        "video": [],
-        "video_titles": [],
+        "video": [
+            "https://www.youtube.com/watch?v=Vy78kS0-fOk"
+        ],
+        "video_titles": [
+            "youtube - trailer"
+        ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "24 Februari 2026"
     },
