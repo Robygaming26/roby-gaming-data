@@ -886,12 +886,18 @@
         "links_titles": [
             "download di steam"
         ],
-        "links_ori": [],
-        "links_ori_titles": [
-            "download di steam"
+        "links_ori": [
+            "https://store.steampowered.com/app/2503770/House_of_Legacy/"
         ],
-        "video": [],
-        "video_titles": [],
+        "links_ori_titles": [
+            "Download di Steam"
+        ],
+        "video": [
+            "https://www.youtube.com/results?search_query=House+of+Legacy+official+trailer"
+        ],
+        "video_titles": [
+            "Cari Trailer di YouTube"
+        ],
         "status": "Stabil (Versi Ini Aman)",
         "date": "25 Februari 2026"
     }
