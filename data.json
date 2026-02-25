@@ -11,10 +11,20 @@
         "links_titles": [],
         "links_ori": [],
         "links_ori_titles": [],
-        "video": [],
-        "video_titles": [],
+        "video": [
+            "https://www.youtube.com/@robygaming26",
+            "https://web.facebook.com/profile.php?id=61573678185147",
+            "https://www.instagram.com/roby_gaming_official/",
+            "https://www.tiktok.com/@roby.ansyah26?lang=id-ID"
+        ],
+        "video_titles": [
+            "Youtube roby gaming",
+            "facebook roby gaming",
+            "ig roby gaming",
+            "tiktok roby gaming"
+        ],
         "status": "Launcher sudah mulai normal, bagi kalian yang sudah download launcher ini sekali lagi tolong update launcher kalian ya silahkan dowload lagi di github Roby Gaming",
-        "date": "25 Februari 2026"
+        "date": "26 Februari 2026"
     },
     {
         "name": "PC Game Detector",
