@@ -546,5 +546,30 @@
         "video_titles": [],
         "status": "Stabil (Versi Ini Aman)",
         "date": "25 Februari 2026"
+    },
+    {
+        "name": "Emulator Yuzu Early Acces",
+        "cat": "Software",
+        "desc": "Platform: Pc (Emulator Nitendo Switch)\nSize: 96 MB\nInclude: -\n\nMainkan Game Nitendo Switch Di PC Kalian.\n\nGame Bajakan: Tidak Disarankan, Pilih Salah Satu Link antara steam atau bajakan.\nNote: \n- Untuk Link Game Bajakan Roby Gaming tidak Bertanggung Jawab Apabila disuatu hari ada masalah. Pastikan Kalian Mendownload Di Store Terpercaya.\n- Jika ada kendala seperti susah download melewati safelinku kalian bisa cek \"Kategori Bantuan\" di atas.\n- jika tidak tau cara install kalian bisa masuk \"Lapor Link Rusak\"",
+        "header": "",
+        "screenshots": [
+            "https://www.appsheet.com/image/getimageurl?appName=RobyGamingAdmin-4990431&tableName=Database_Game&fileName=Database_Game_Images%2FI_qi_CrrS44D2IP39dygGa.Tumbnail.101218.png&appVersion=1.000131&signature=d8014918f02612b584fe61020f8308b41d82564b2b60b47e48f94e3393220d44"
+        ],
+        "links": [
+            "https://sfl.gl/Fz8SG9jB"
+        ],
+        "links_titles": [
+            "Download server google drive - 96 MB"
+        ],
+        "links_ori": [
+            "https://drive.google.com/file/d/1gVyraL7BLc6o9SB0C583-BurfU7FdhyC/view?usp=drive_link"
+        ],
+        "links_ori_titles": [
+            "Download server google drive - 96 MB"
+        ],
+        "video": [],
+        "video_titles": [],
+        "status": "Stabil (Versi Ini Aman)",
+        "date": "25 Februari 2026"
     }
 ]
