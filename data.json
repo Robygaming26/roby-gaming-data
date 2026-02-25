@@ -330,8 +330,12 @@
             "download updater v1.18.3 part 1 server swift upload - 961 MB",
             "download updater v1.18.3 part 2 server swift upload - 406 MB"
         ],
-        "video": [],
-        "video_titles": [],
+        "video": [
+            "https://www.youtube.com/watch?v=xjn66Cl3pMA"
+        ],
+        "video_titles": [
+            "youtube - trailer"
+        ],
         "status": "Stabil (Versi Ini Aman)",
         "date": "24 Februari 2026"
     },
