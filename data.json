@@ -48,9 +48,10 @@
     {
         "name": "Auto Sale Life",
         "cat": "Game",
-        "desc": "Genre: Action, Indie, Simulation\nCompatible PC: Windows 10 (64 bit) or Never (64 bit) Windows OS\nSize: 20 GB available space\n-------------------------------------------\nMembangun kerajaan otomotif. Beli, jual, dan sesuaikan mobil untuk membuat merek dan ruang pamer Anda sendiri. Jadilah pengusaha cerdas dalam game perdagangan dan penyesuaian mobil yang imersif ini.\n-------------------------------------------\nRagu PC Kuat? Cek Spekmu Menggunakan PC Game Detector Cek Di Menu Bantuan Diatas\n-------------------------------------------\nGame Bajakan: Tidak Disarankan, Pilih Salah Satu Link antara steam atau bajakan.\nNote:\n- Untuk Link Game Bajakan Roby Gaming tidak Bertanggung Jawab Apabila disuatu hari ada masalah.\n- Jika ada kendala seperti susah download melewati safelinku kalian bisa cek 'Kategori Bantuan' di atas.\n- Jika tidak tau cara install kalian bisa masuk 'Lapor Link Rusak'",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510130/header.jpg",
+        "desc": "Genre: Action, Indie, Simulation\nCompatible PC: Windows 10 (64 bit) or Never (64 bit) Windows OS\nSize: 20 GB available space\n-------------------------------------------\nMembangun kerajaan otomotif. Beli, jual, dan sesuaikan mobil untuk membuat merek dan ruang pamer Anda sendiri. Jadilah pengusaha cerdas dalam game perdagangan dan penyesuaian mobil yang imersif ini.\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
+        "header": "",
         "screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510130/header.jpg",
             "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510130/ss_fba52b61c438a4ef9ae865c85713db0d24c5dd8c.1920x1080.jpg?t=1771494991",
             "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510130/ss_4ef6f2b4f45e9cba2fd3325fca899868d10e6ad8.1920x1080.jpg?t=1771494991",
             "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510130/ss_cc90eb0fbf1ce0e333ce14a17f7ef7668a2f22b3.1920x1080.jpg?t=1771494991",
@@ -87,10 +88,14 @@
             "Download v1.0  Server Mediafire - 4.4 GB"
         ],
         "video": [
-            "https://www.youtube.com/results?search_query=Auto+Sale+Life+official+trailer"
+            "https://www.youtube.com/results?search_query=Auto+Sale+Life+official+trailer",
+            "https://web.facebook.com/share/v/1AXVnKsuEG/",
+            "https://youtu.be/6i6jb2v-uBQ"
         ],
         "video_titles": [
-            "Cari Trailer di YouTube"
+            "Cari Trailer di YouTube",
+            "facebook",
+            "youtube"
         ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "24 Februari 2026"
