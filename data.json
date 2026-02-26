@@ -693,37 +693,59 @@
         "date": "25 Februari 2026"
     },
     {
-        "name": "The Sims\u2122 4",
+        "name": "The Witcher 3: Wild Hunt",
         "cat": "Game",
-        "desc": "Genre: Adventure, Casual, Simulation, Free To Play\nCompatible PC: 64 Bit Required. Windows 10\nSize: 26 GB available space\n-------------------------------------------\nBermainlah dengan kehidupan dan temukan kemungkinannya. Bebaskan imajinasi Anda dan ciptakan dunia Sim yang sepenuhnya unik. Jelajahi dan sesuaikan setiap detail mulai dari Sim hingga rumah\u2013dan banyak lagi.\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
+        "desc": "Genre: RPG\nCompatible PC: Windows\nSize: 50 GB available space\n-------------------------------------------\nAnda adalah Geralt dari Rivia, pembunuh monster tentara bayaran. Sebelum Anda berdiri di benua yang dilanda perang dan dipenuhi monster, Anda dapat menjelajah sesuka hati. Kontrak Anda saat ini? Melacak Ciri \u2014 Anak Nubuat, senjata hidup yang dapat mengubah bentuk dunia.\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
         "header": "",
         "screenshots": [
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/ss_537683e5e29c2d6d02c64aa7321dcb26166f7d82.1920x1080.jpg?t=1771506206",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/ss_2fc938d99a1e87893852cb2d2113478190607941.1920x1080.jpg?t=1771506206",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/ss_b447d6436d2d00cd5e7c170e509b2246dfc879e8.1920x1080.jpg?t=1771506206",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/ss_e1f0ce3ca2c9a538e382cc8b040944fe05af4bb2.1920x1080.jpg?t=1771506206",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/ss_7d9baea1aedeeb41cb197a9e45a30f0b91b4baf9.1920x1080.jpg?t=1771506206"
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_112b1e176c1bd271d8a565eacb6feaf90f240bb2.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d1b73b18cbcd5e9e412c7a1dead3c5cd7303d2ad.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_107600c1337accc09104f7a8aa7f275f23cad096.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_64eb760f9a2b67f6731a71cce3a8fb684b9af267.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_eda99e7f705a113d04ab2a7a36068f3e7b343d17.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d5b80eb63c12a6484f26796f3e34410651bba068.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_b74d60ee215337d765e4d20c8ca6710ae2362cc2.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_dc55eeb409d6e187456a8e159018e8da098fa468.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_849ec8dcc6f8df1c0b2c509584c9fc9e51f88cfa.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_90a33d7764a2d23306091bfcb52265c3506b4fdb.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_07812c174bb6b96c29895ddc27404143df7aba6d.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_ed23139c916fdb9f6dd23b2a6a01d0fbd2dd1a4f.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_dc33eb233555c13fce939ccaac667bc54e3c4a27.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_908485cbb1401b1ebf42e3d21a860ddc53517b08.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_608af6cfe0eab3f37265550b391732a3e88d1a4f.1920x1080.jpg?t=1768303991",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_8ac1dc847388e59b1be1c5ea5ca592d5861756cc.1920x1080.jpg?t=1768303991"
         ],
         "links": [
-            "https://store.steampowered.com/app/1222670/The_Sims_4/"
+            "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+            "https://sfl.gl/1abGU",
+            "https://sfl.gl/3PDx4",
+            "https://sfl.gl/jopl9PO"
         ],
         "links_titles": [
-            "Download di Steam Gratis"
+            "Download di Steam",
+            "download v4.04 server dodi repacks - 33.8 gb",
+            "download v4.04 server kuyhaa - 33.5 gb",
+            "download GOTY Edition server DLTKU - 25 gb"
         ],
         "links_ori": [
-            "https://store.steampowered.com/app/1222670/The_Sims_4/"
+            "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+            "https://dodi-repacks.site/the-witcher-3-wild-hunt-complete-edition/",
+            "https://www.kuyhaa.me/the-witcher-3-wild-hunt-goty-repack-2.html",
+            "https://downloadtanku.me/the-witcher-3-wild-hunt-goty-edition-pc-repack-free-download/"
         ],
         "links_ori_titles": [
-            "Download di Steam Gratis"
+            "Download di Steam"
         ],
         "video": [
-            "https://www.youtube.com/results?search_query=The+Sims\u2122+4+trailer"
+            "https://www.youtube.com/results?search_query=The+Witcher+3:+Wild+Hunt+trailer"
         ],
         "video_titles": [
             "Cari Trailer di YouTube"
         ],
-        "status": "Stabil (Versi Ini Aman)",
+        "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "26 Februari 2026"
     },
     {
