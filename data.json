@@ -1317,51 +1317,55 @@
         "date": "26 Februari 2026"
     },
     {
-        "name": "Settlement Survival",
+        "name": "STORY OF SEASONS: A Wonderful Life",
         "cat": "Game",
-        "desc": "Genre: Simulation, Strategy\nCompatible PC: Windows 10(64-Bit)\nSize: 1 GB available space\n-------------------------------------------\nDalam game membangun kota ini, Anda akan memimpin sekelompok orang yang selamat dalam mencari rumah baru. Memanipulasi lanskap, mengelola persediaan terbatas, menanam tanaman, berburu satwa liar, mengumpulkan sumber daya, dan mengembangkan jalur perdagangan untuk membangun kota yang ramai dan unik.\n\nFilecrypt folder password: 221\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
+        "desc": "Genre: Casual, RPG, Simulation\nCompatible PC: Windows 10/11\nSize: 5 GB available space\n-------------------------------------------\nBerakarlah di pertanian baru Anda di kota Forgotten Valley yang damai. Hadirkan kehidupan di wilayah tersebut dengan bercocok tanam dan beternak hewan, temukan cinta di antara penduduk kota yang ramah, dan ciptakan kenangan abadi bersama keluarga Anda sendiri.\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
         "header": "",
         "screenshots": [
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/header.jpg",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_bb577171d6bca0be91caf455976acc7968340eef.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_aa5636f3cf40bf30ed3f976ef507aa41aca67a59.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_4971f28c4d9ae9c1a6bd9b31c2c1b4d367daed80.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_52dfe7aa89af342b24d6bdd627fb1f690c93a98d.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_b6480f1aa3d9d6a56cfb675ffc546efe2ecb2f47.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_36bc861d7ceb8acf7c40ee4640479a7e8e7a34e9.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_e04eb99afd197cd5fed351f3cca252b797f2c298.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_0ab3dac9f032ef8e1925d406cac56c86252ba81f.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_016e4a16174c59790e96aeea299459bfc1a589ad.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_a9458ef603fd2c5ab4812c4ea83d25df6fe6ef23.1920x1080.jpg?t=1763037488",
-            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/ss_5263d43bdb73a374fa540b2eb1571c1cda15c434.1920x1080.jpg?t=1763037488"
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/header.jpg",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_8621360a923bf87bdce9b058b5c50a25bd54beaf.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_57cd99a65f09c6ef19cbdaaba9a6ed576daddb48.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_8becdc9429ad80f2ead0121455779bc4ffec81f1.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_4d6d459bbb8abc75cf3949e2ad9b255cca4d881e.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_9eb7d8bfc1beda66593fbfab8a5b00bcd991d031.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_7ef4679a672d62ed172f6ffd2000080812a884b1.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_248c50d3f08fabc5a64ed3ef5c1e2a61c995e6e7.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_bddc983a3f4d3150ead44ebc6e1e877c04514741.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_2dee0096bd2af37da8a76165862c92b749519609.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_1a60a1ac9829b0b31ec85ff44e8ac006dcb03f51.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_c48c950e22ba1aceef2e506a001897ea2fe41a00.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_ef0623475784c89918512849e0f51f808e15bd73.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_861f6d92f8a395020e95d16b3a9e59b66c1183ea.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_f17a96e58ca56df7b928bda06eca2f7fcb08ebbe.1920x1080.jpg?t=1743091775",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111170/ss_f7c0cef47c937bc4a3eb3a7d22e59a37ded1ff4e.1920x1080.jpg?t=1743091775"
         ],
         "links": [
-            "https://store.steampowered.com/app/1509510/Settlement_Survival/?l=indonesian",
-            "https://sfl.gl/eZvSJ"
+            "https://store.steampowered.com/app/2111170/STORY_OF_SEASONS_A_Wonderful_Life/",
+            "https://sfl.gl/2JS7Fe9"
         ],
         "links_titles": [
             "Download di Steam",
-            "download v1.1.132.97 server filecrypt - 597 MB"
+            "download server google drive - 1.3 gb"
         ],
         "links_ori": [
-            "https://store.steampowered.com/app/1509510/Settlement_Survival/?l=indonesian",
-            "https://www.filecrypt.cc/Container/9CA77FFF6C.html"
+            "https://store.steampowered.com/app/2111170/STORY_OF_SEASONS_A_Wonderful_Life/",
+            "https://drive.google.com/file/d/1zcCqyIu_N9RhMeyeVZqoRYaKc-K36iNI/view?usp=drive_link"
         ],
         "links_ori_titles": [
             "Download di Steam",
-            "download v1.1.132.97 server filecrypt - 597 MB"
+            "download server google drive - 1.3 gb"
         ],
         "video": [
-            "https://www.youtube.com/results?search_query=Settlement+Survival+trailer",
-            "https://web.facebook.com/share/v/1BnPaRWrNJ/",
-            "https://youtu.be/wsILvYzI-eA"
+            "https://www.youtube.com/results?search_query=STORY+OF+SEASONS:+A+Wonderful+Life+trailer",
+            "https://web.facebook.com/share/v/1BYm3espBb/",
+            "https://youtu.be/I8MZAzkqjMU"
         ],
         "video_titles": [
             "Cari Trailer di YouTube",
-            "facebook - cara install v1.1.132.97",
-            "youtube - cara install v1.1.132.97"
+            "facebook - cara install",
+            "youtube - cara install"
         ],
-        "status": "Stabil (Versi Ini Aman)",
+        "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "26 Februari 2026"
     }
 ]
