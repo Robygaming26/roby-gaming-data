@@ -3293,5 +3293,34 @@
         ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "27 Februari 2026"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "cat": "Mod/Cheat",
+        "desc": "Ini Adalah Cheat Trainer, Cek Di Screenshoot",
+        "header": "",
+        "screenshots": [
+            "https://drive.google.com/uc?export=download&id=1YKQXaUTAXZswRMlFw0XME2nsE-ml1Jfc"
+        ],
+        "links": [
+            "https://sfl.gl/zWqLJkL"
+        ],
+        "links_titles": [
+            "download server mediafire - 1.5 mb"
+        ],
+        "links_ori": [
+            "https://www.mediafire.com/file/iss3wxqikith7rq/Hogwarts_Legacy_v1.0-v20250130_Plus_33_Trainer.rar/file"
+        ],
+        "links_ori_titles": [
+            "download server mediafire - 1.5 mb"
+        ],
+        "video": [
+            "https://youtu.be/Px4w5kKSZTo"
+        ],
+        "video_titles": [
+            "youtube"
+        ],
+        "status": "Stabil (Versi Ini Aman)",
+        "date": "27 Februari 2026"
     }
 ]
