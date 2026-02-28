@@ -3474,5 +3474,24 @@
         ],
         "status": "Stabil (Versi Ini Aman)",
         "date": "27 Februari 2026"
+    },
+    {
+        "name": "Cara Download Melewati Safelinku (PC)",
+        "cat": "Bantuan",
+        "desc": "Kesulitan Dalam Mencoba Download Di Launcher Ini, Kalian Bisa Tonton Video Ini.",
+        "header": "",
+        "screenshots": [],
+        "links": [],
+        "links_titles": [],
+        "links_ori": [],
+        "links_ori_titles": [],
+        "video": [
+            "https://web.facebook.com/share/v/17vPSRy7bF/"
+        ],
+        "video_titles": [
+            "tonton di facebook"
+        ],
+        "status": "Full release (Sudah Tidak Ada Update Besar)",
+        "date": "28 Februari 2026"
     }
 ]
