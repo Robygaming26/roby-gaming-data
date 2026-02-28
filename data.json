@@ -3574,5 +3574,34 @@
         ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "28 Februari 2026"
+    },
+    {
+        "name": "IOBIT - PC Nggak Akan Lemot Lagi! Software Wajib Gamer",
+        "cat": "Software",
+        "desc": "Tonton Videonya.",
+        "header": "",
+        "screenshots": [],
+        "links": [
+            "https://www.mediafire.com/file/4chzh2lq6t7mylp/Baca_Ini_Untuk_Cara_Download_Iobit.pdf/file"
+        ],
+        "links_titles": [
+            "download server mediafire"
+        ],
+        "links_ori": [
+            "https://www.mediafire.com/file/4chzh2lq6t7mylp/Baca_Ini_Untuk_Cara_Download_Iobit.pdf/file"
+        ],
+        "links_ori_titles": [
+            "download server mediafire"
+        ],
+        "video": [
+            "https://web.facebook.com/share/v/17WC1wk9Fo/",
+            "https://youtu.be/VQ5_rkweC8M"
+        ],
+        "video_titles": [
+            "facebook",
+            "youtube"
+        ],
+        "status": "Stabil (Versi Ini Aman)",
+        "date": "28 Februari 2026"
     }
 ]
