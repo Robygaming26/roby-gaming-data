@@ -3663,5 +3663,61 @@
         ],
         "status": "Full release (Sudah Tidak Ada Update Besar)",
         "date": "28 Februari 2026"
+    },
+    {
+        "name": "RimWorld",
+        "cat": "Game",
+        "desc": "Genre: Indie, Simulation, Strategy\nCompatible PC: Windows\nSize: 1 GB available space\n-------------------------------------------\nSim koloni fiksi ilmiah yang digerakkan oleh pendongeng AI yang cerdas. Menghasilkan cerita dengan mensimulasikan psikologi, ekologi, tembak-menembak, pertarungan jarak dekat, iklim, bioma, diplomasi, hubungan interpersonal, seni, kedokteran, perdagangan, dan banyak lagi.\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
+        "header": "",
+        "screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_6bee92494e0c4dc53ad69000f2b71128c23629d6.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_c34c6c04b002454d8fee32ba52dca99c9cf1d76b.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_9c195af4d3b80edcd01e4836be605a04b24657c2.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_6947cc8ea8beba1c3abb3bb0062343dd575ccfd1.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_8dfed1fd659a608f3556bfccaaf9ef49bf594222.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_4313dccc8b8ffdc6020789a59ddedaa570f78de4.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_000e61bb3f21077183422c86093189c22a02bf08.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_7dbac9410822d5264d102b1c06017856c481e48b.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_2704e3db8c81431920fd72a219e5cd32d6950642.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_19cec82211dcf91b50f1c59cfda83eb97de3e2c8.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_2af7734754467d50fb50e74f8cbcf3af630ec540.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_ed33d114171f2a60f58a7f51ff2718250d670571.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_44a8828a81f12d2c4103c42df902e804d851a380.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_fb4ed93f4d70f938b05068784b69bff6524c759f.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_bb8f991ea52d67f4e32de25f38d600d90f6db32f.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_d9204adad5c8236f000e0e53c2af798308195eff.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_6f7a5a9555add3a43f93a976ed563605e997e031.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_8102d6d9eab34405f300721cc7b6b0e14dd21fc8.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_3bcc00a01f38fb3d8fe467c15118d631f7b54e88.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_39f8694d766fcbaf1d771f128f43e66f9c5defa1.1920x1080.jpg?t=1770059921",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/ss_4eb4095f6ab5d5d6ea2af1d29119f28cc3bd6018.1920x1080.jpg?t=1770059921"
+        ],
+        "links": [
+            "https://store.steampowered.com/app/294100/RimWorld/",
+            "https://sfl.gl/KgUEBYD"
+        ],
+        "links_titles": [
+            "Download di Steam",
+            "Download v1.6.4633 server mediafire - 502 MB"
+        ],
+        "links_ori": [
+            "https://store.steampowered.com/app/294100/RimWorld/",
+            "https://www.mediafire.com/file/gtq4e1n9u443kno/RimWorld-v1-6-4633.zip"
+        ],
+        "links_ori_titles": [
+            "Download di Steam",
+            "Download v1.6.4633 server mediafire - 502 MB"
+        ],
+        "video": [
+            "https://www.youtube.com/results?search_query=RimWorld+trailer"
+        ],
+        "video_titles": [
+            "Cari Trailer di YouTube"
+        ],
+        "status": "Full release (Sudah Tidak Ada Update Besar)",
+        "date": "28 Februari 2026"
     }
 ]
