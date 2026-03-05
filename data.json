@@ -761,9 +761,9 @@
         ],
         "links_titles": [
             "Download di Steam",
-            "download v4.04 server dodi repacks - 33.8 gb",
-            "download v4.04 server kuyhaa - 33.5 gb",
-            "download GOTY Edition server DLTKU - 25 gb"
+            "download | v4.04 | dodi repacks | 33.8 gb",
+            "download | v4.04 | kuyhaa | 33.5 gb",
+            "download | GOTY Edition | DLTKU | 25 gb"
         ],
         "links_ori": [
             "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
@@ -772,7 +772,10 @@
             "https://downloadtanku.me/the-witcher-3-wild-hunt-goty-edition-pc-repack-free-download/"
         ],
         "links_ori_titles": [
-            "Download di Steam"
+            "Download di Steam",
+            "download | v4.04 | dodi repacks | 33.8 gb",
+            "download | v4.04 | kuyhaa | 33.5 gb",
+            "download | GOTY Edition | DLTKU | 25 gb"
         ],
         "video": [
             "https://www.youtube.com/results?search_query=The+Witcher+3:+Wild+Hunt+trailer"
