@@ -3764,7 +3764,7 @@
     {
         "name": "RimWorld",
         "cat": "Game",
-        "desc": "Genre: Indie, Simulation, Strategy\nCompatible PC: Windows\nSize: 1 GB available space\n-------------------------------------------\nSim koloni fiksi ilmiah yang digerakkan oleh pendongeng AI yang cerdas. Menghasilkan cerita dengan mensimulasikan psikologi, ekologi, tembak-menembak, pertarungan jarak dekat, iklim, bioma, diplomasi, hubungan interpersonal, seni, kedokteran, perdagangan, dan banyak lagi.\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
+        "desc": "Genre: Indie, Simulation, Strategy\nCompatible PC: Windows\nSize: 1 GB available space\n-------------------------------------------\nSim koloni fiksi ilmiah yang digerakkan oleh pendongeng AI yang cerdas. Menghasilkan cerita dengan mensimulasikan psikologi, ekologi, tembak-menembak, pertarungan jarak dekat, iklim, bioma, diplomasi, hubungan interpersonal, seni, kedokteran, perdagangan, dan banyak lagi.\n\nPassword File mediafire: 123\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
         "header": "",
         "screenshots": [
             "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
@@ -3794,11 +3794,13 @@
         ],
         "links": [
             "https://store.steampowered.com/app/294100/RimWorld/",
-            "https://sfl.gl/WWdUm"
+            "https://sfl.gl/WWdUm",
+            "https://sfl.gl/KgUEBYD"
         ],
         "links_titles": [
             "Download di Steam",
-            "download | v1.6.4518 | vikingfile | 545 MB"
+            "download | v1.6.4518 | vikingfile | 545 MB",
+            "Download | v1.6.4633 | mediafire | 502 MB"
         ],
         "links_ori": [
             "https://store.steampowered.com/app/294100/RimWorld/",
@@ -3806,7 +3808,8 @@
         ],
         "links_ori_titles": [
             "Download di Steam",
-            "download | v1.6.4518 | vikingfile | 545 MB"
+            "download | v1.6.4518 | vikingfile | 545 MB",
+            "Download | v1.6.4633 | mediafire | 502 MB"
         ],
         "video": [
             "https://www.youtube.com/results?search_query=RimWorld+trailer"
