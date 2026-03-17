@@ -3959,5 +3959,50 @@
         ],
         "status": "Maintenance (bisa dijalankan asal versinya sama - ini lagi dalam pengerjaan untuk update lebih baru)",
         "date": "16 Maret 2026"
+    },
+    {
+        "name": "Big Ambitions",
+        "cat": "Game",
+        "desc": "Genre: Indie, Simuladores, Acceso anticipado\nCompatible PC: Windows\nSize: Cek di Store\n-------------------------------------------\nAmbisi Besar adalah permainan peran simulasi bisnis yang revolusioner. Beranjaklah dari nol menjadi pengusaha terbesar di New York dengan membuka usaha kecil atau perlahan membangun perusahaan besar sesuka Anda.\n\nPassword FileCr: 123\n-------------------------------------------\nCek spesifikasi lengkap di Menu Bantuan PC Game Detector.\n-------------------------------------------\nNote: Support Developer dengan membeli di Steam resmi.\n-------------------------------------------\n\u00a9 Roby Gaming Launcher",
+        "header": "",
+        "screenshots": [
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/header.jpg",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_0f84cea5cfa82f4572cccba73d5aff03b173c664.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_fe4c474439f12cd49e1a85335fe1a7338174ac62.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_ec43fb7bbd4ea891c9e5ae8f3b349d4bad302b77.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_1281f226a17d8fb645a74480641a4e28898ae4dc.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_b824340b7d1aa0bcc915bff056d36a0e405e5c53.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_62d68f7a0f628875d1e8d9d38346e1646dac0bef.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_64b1d11f3b428d5fa05724fb4015bf8b357a03ca.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_e47fc64e7e9d43217a3200007a8d9a6994688f3e.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_dbb76912d0bf83785b08f6a74601ac798b50b80c.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_5d935ca62c456d37ac6bd0814bd75f89d758e643.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_c8a01138363d182b95d332ad30599eff4b01add9.1920x1080.jpg?t=1773247787",
+            "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/ss_e458adaa75d6f7e5bc74c3083043f8ae58704c09.1920x1080.jpg?t=1773247787"
+        ],
+        "links": [
+            "https://store.steampowered.com/app/1331550/Big_Ambitions/",
+            "https://sfl.gl/LezJPdj"
+        ],
+        "links_titles": [
+            "Download di Steam",
+            "download | v0.10.3457 | mediafire | 2.6 GB"
+        ],
+        "links_ori": [
+            "https://store.steampowered.com/app/1331550/Big_Ambitions/",
+            "https://www.mediafire.com/file/d99bkw19j6k6jko/Big+Ambitions+0-10-3457.zip"
+        ],
+        "links_ori_titles": [
+            "Download di Steam",
+            "download | v0.10.3457 | mediafire | 2.6 GB"
+        ],
+        "video": [
+            "https://www.youtube.com/results?search_query=Big+Ambitions+trailer"
+        ],
+        "video_titles": [
+            "Cari Trailer di YouTube"
+        ],
+        "status": "Stabil (Versi Ini Aman)",
+        "date": "17 Maret 2026"
     }
 ]
