@@ -1082,24 +1082,28 @@
         ],
         "links": [
             "https://store.steampowered.com/app/1857090/Norland/",
+            "https://sfl.gl/QdzQdAel",
             "https://sfl.gl/O0DzB",
             "#",
             "#"
         ],
         "links_titles": [
             "Download di Steam",
+            "download | v0.5140.9005.0 | google drive | 851 mb",
             "download | v0.5123.88885.0 2026-02-17 | google drive | 851 mb",
             "download | v0.4923.8354.0 | google drive | 873 mb",
             "download | v0.4626.7202.0 - v2025.07.05 | google drive | 786 MB"
         ],
         "links_ori": [
             "https://store.steampowered.com/app/1857090/Norland/",
+            "https://drive.google.com/uc?export=download&id=1zVNflBn21dXbOPnLN52wAW921GtB-f9x",
             "https://drive.google.com/file/d/131LGQG0TWQRPTHAUV3QzOqirTltNF9wd/view?usp=drive_link",
             "#",
             "#"
         ],
         "links_ori_titles": [
             "Download di Steam",
+            "download | v0.5140.9005.0 | google drive | 851 mb",
             "download | v0.5123.88885.0 2026-02-17 | google drive | 851 mb",
             "download | v0.4923.8354.0 | google drive | 873 mb",
             "download | v0.4626.7202.0 - v2025.07.05 | google drive | 786 MB"
@@ -1115,7 +1119,7 @@
             "youtube - cara install v0.4626.7202.0 - v2025.07.05"
         ],
         "status": "Stabil (Versi Ini Aman)",
-        "date": "26 Februari 2026"
+        "date": "18 Maret 2026"
     },
     {
         "name": "Manor Lords",
