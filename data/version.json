@@ -1,0 +1,10 @@
+{
+  "latest_version": "3.9.9",
+  "update_required": false,
+  "update_message": "Anda menggunakan versi terbaru Roby Gaming Launcher!",
+  "download_url": "https://github.com/Robygaming26/roby-gaming-data/releases",
+  "release_notes": "Versi 4.0.0 dengan fitur smart user tracking dan perbaikan bug.",
+  "button_text": "Update Sekarang",
+  "force_update": false,
+  "last_updated": "2026-03-25T01:30:39.101364"
+}
