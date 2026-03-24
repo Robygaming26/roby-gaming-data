@@ -2,15 +2,15 @@
   "active_users": [
     {
       "device_id": "windows-629659540-1774372414313",
+      "last_activity": "2026-03-25T01:13:35.730075",
+      "is_active": true,
+      "status": "online",
+      "session_start": "2026-03-25T01:13:37.111950",
       "platform": "windows",
       "device_type": "windows-desktop",
-      "session_start": "2026-03-25T01:13:34.347083",
-      "last_activity": "2026-03-25T01:13:34.347083",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
+      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-03-25T01:13:35.393393",
+  "last_updated": "2026-03-25T01:13:37.111950",
   "total_active": 1
 }
