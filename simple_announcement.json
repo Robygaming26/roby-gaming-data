@@ -1,11 +1,13 @@
 {
   "announcement": {
-    "title": "Judul Pengumuman",
-    "message": "Pesan deskriptif",
+    "title": "Selamat Datang Di Launcher Roby Gaming",
+    "message": "Yuk Cek Sama-Sama Apa Yang Baru..? \n\n1.Top Up Di Roby Gaming Gunakan Promonya Cukup Klik Gambarnya Saja. \n2.Update Mod/Cheat Mount And Blade Bannerlord 2 - Bahasa Indonesia. \n3.Update Mod/Cheat Resident Evil 6 - Bahasa Indonesia. \n4.Update Game Resident Evil 6. \nAdd Game Big Ambitions",
     "images": [
-      {"imageUrl": "url1", "linkUrl": "link1"},
-      {"imageUrl": "url2", "linkUrl": "#"},
-      {"imageUrl": "url3", "linkUrl": "link3"}
+      {"imageUrl": "https://drive.google.com/uc?export=download&id=1lrNd-3aydKLA6MPHnBpAeT9wuVaRqNI1", "linkUrl": "https://robygaming.com/"},
+      {"imageUrl": "https://drive.google.com/uc?export=download&id=1tra6Oee4tni2A9tbBc-i2x-DTyzeDBxb", "linkUrl": "#"},
+      {"imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg", "linkUrl": "#"},
+      {"imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg", "linkUrl": "#"},
+      {"imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/header.jpg", "linkUrl": "#"}
     ]
   }
 }
