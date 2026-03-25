@@ -65,12 +65,12 @@
       "platform": "android",
       "device_type": "android-mobile",
       "session_start": "2026-03-25T14:56:00.505719",
-      "last_activity": "2026-03-25T14:56:00.505920",
+      "last_activity": "2026-03-25T14:56:02.013157",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-25T14:56:01.316962",
+  "last_updated": "2026-03-25T14:56:05.616388",
   "total_active": 7
 }
