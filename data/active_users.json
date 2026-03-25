@@ -94,13 +94,13 @@
       "device_id": "android-588746966-1774423691909",
       "platform": "android",
       "device_type": "android-mobile",
-      "session_start": "2026-03-25T15:28:12.035751",
-      "last_activity": "2026-03-25T15:28:44.872068",
+      "session_start": "2026-03-25T15:29:04.981222",
+      "last_activity": "2026-03-25T15:29:04.982631",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-25T15:28:45.663662",
+  "last_updated": "2026-03-25T15:29:05.772615",
   "total_active": 10
 }
