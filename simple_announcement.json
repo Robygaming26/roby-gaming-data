@@ -1,1 +1,14 @@
-[]
+[
+            {
+                "id": "1",
+                "title": "Maintenance Notice",
+                "message": "System will be under maintenance on March 30, 2026 from 2:00 AM to 4:00 PM",
+                "created_at": "2026-03-25T12:00:00.000Z"
+            },
+            {
+                "id": "2",
+                "title": "New Feature Release",
+                "message": "We are excited to announce our new feature updates coming next week!",
+                "created_at": "2026-03-25T12:00:00.000Z"
+            }
+        ]
