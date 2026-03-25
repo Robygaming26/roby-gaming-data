@@ -1,16 +1,66 @@
 {
   "active_users": [
     {
+      "device_id": "android-588746966-1774372483631",
+      "platform": "android",
+      "device_type": "android-mobile",
+      "session_start": "2026-03-25T12:24:21.009515",
+      "last_activity": "2026-03-25T12:24:21.011494",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
+    },
+    {
+      "device_id": "android-588746966-1774412894260",
+      "platform": "android",
+      "device_type": "android-mobile",
+      "session_start": "2026-03-25T13:11:27.241383",
+      "last_activity": "2026-03-25T13:14:54.510194",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
+    },
+    {
+      "device_id": "android-588746966-1774416697736",
+      "platform": "android",
+      "device_type": "android-mobile",
+      "session_start": "2026-03-25T13:31:37.749576",
+      "last_activity": "2026-03-25T13:32:00.995754",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
+    },
+    {
+      "device_id": "windows-629659540-1774372414313",
+      "platform": "windows",
+      "device_type": "windows-desktop",
+      "session_start": "2026-03-25T14:33:51.249229",
+      "last_activity": "2026-03-25T14:33:51.249229",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
+    },
+    {
+      "device_id": "android-588746966-1774420738052",
+      "platform": "android",
+      "device_type": "android-mobile",
+      "session_start": "2026-03-25T14:38:58.079281",
+      "last_activity": "2026-03-25T14:39:32.731307",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
+    },
+    {
       "device_id": "android-588746966-1774421155834",
       "platform": "android",
       "device_type": "android-mobile",
       "session_start": "2026-03-25T14:46:26.490077",
-      "last_activity": "2026-03-25T14:48:21.240163",
+      "last_activity": "2026-03-25T14:48:51.242869",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-25T14:48:52.640166",
-  "total_active": 1
+  "last_updated": "2026-03-25T14:48:52.314522",
+  "total_active": 6
 }
