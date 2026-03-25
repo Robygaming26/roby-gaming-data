@@ -35,7 +35,7 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "session_start": "2026-03-25T19:46:22.311450",
-      "last_activity": "2026-03-25T20:09:09.372249",
+      "last_activity": "2026-03-25T20:09:40.545221",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
@@ -51,6 +51,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-25T20:09:10.032741",
+  "last_updated": "2026-03-25T20:09:44.143801",
   "total_active": 5
 }
