@@ -3,8 +3,8 @@
   "update_required": true,
   "update_message": "Anda menggunakan versi Lama Roby Gaming Launcher!",
   "download_url": "https://github.com/Robygaming26/roby-gaming-data/releases",
-  "release_notes": "Versi 4.0.0 dengan fitur: \nUI Dan UX Upgrade \nFitur Online User Live \nAnimasi Teks Berjalan Smooth \nSupport Multi-Platform \ndan perbaikan bug-lainnya. \n\nSilahkan Klik Dibawah Pilih Sesuai Platform Kalian.",
+  "release_notes": "Versi 4.0.0 dengan fitur: \n- UI Dan UX Upgrade \n- Fitur Online User Live \n- Animasi Teks Berjalan Smooth \n- Support Multi-Platform \n- Bisa Milih Tema \ndan perbaikan bug-lainnya. \n\nSilahkan Klik Update Sekarang, Download Dan Pilih Sesuai Platform Yang Kalian Gunakan.",
   "button_text": "Update Sekarang",
-  "force_update": false,
+  "force_update": true,
   "last_updated": "2026-03-25T01:30:39.101364"
 }
