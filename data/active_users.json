@@ -11,6 +11,16 @@
       "status": "online"
     },
     {
+      "device_id": "windows-629659540-1774372414313",
+      "platform": "windows",
+      "device_type": "windows-desktop",
+      "session_start": "2026-03-25T12:57:36.122467",
+      "last_activity": "2026-03-25T13:06:11.548819",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
+    },
+    {
       "device_id": "android-588746966-1774412894260",
       "platform": "android",
       "device_type": "android-mobile",
@@ -19,18 +29,8 @@
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
-    },
-    {
-      "device_id": "windows-629659540-1774372414313",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-03-25T13:06:10.559720",
-      "last_activity": "2026-03-25T13:06:10.560797",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
     }
   ],
-  "last_updated": "2026-03-25T13:06:11.227779",
+  "last_updated": "2026-03-25T13:06:15.253757",
   "total_active": 3
 }
