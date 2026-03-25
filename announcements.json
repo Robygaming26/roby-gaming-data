@@ -8,7 +8,7 @@
       "type": "success",
       "isActive": true,
       "startDate": "2024-03-25T00:00:00Z",
-      "endDate": "2025-12-31T23:59:59Z",
+      "endDate": "2026-12-31T23:59:59Z",
       "links": [
         {
           "title": "📱 Download Mobile Version",
@@ -62,7 +62,7 @@
       "type": "info",
       "isActive": true,
       "startDate": "2024-03-20T00:00:00Z",
-      "endDate": "2025-12-31T23:59:59Z",
+      "endDate": "2026-12-31T23:59:59Z",
       "links": [
         {
           "title": "🎯 Download Sekarang",
@@ -89,7 +89,7 @@
       "type": "error",
       "isActive": true,
       "startDate": "2024-03-25T00:00:00Z",
-      "endDate": "2025-12-31T23:59:59Z",
+      "endDate": "2026-12-31T23:59:59Z",
       "links": [
         {
           "title": "🔄 Update Sekarang",
@@ -116,7 +116,7 @@
       "type": "info",
       "isActive": true,
       "startDate": "2024-03-25T00:00:00Z",
-      "endDate": "2025-12-31T23:59:59Z",
+      "endDate": "2026-12-31T23:59:59Z",
       "links": [
         {
           "title": "🎮 Join Event Sekarang",
