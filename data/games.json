@@ -1,76 +1,76 @@
 {
-    "games": [
-        {
-            "name": "Resident Evil 6 - Bahasa Indonesia",
-            "view_count": 20
-        },
-        {
-            "name": "Big Ambitions",
-            "view_count": 4
-        },
-        {
-            "name": "Mount And Blade Bannerlord 2 - Bahasa Indonesia",
-            "view_count": 11
-        },
-        {
-            "name": "Resident Evil 6",
-            "view_count": 29
-        },
-        {
-            "name": "Crusader King III - Bahasa Indonesia",
-            "view_count": 3
-        },
-        {
-            "name": "PC Game Detector",
-            "view_count": 4
-        },
-        {
-            "name": "Hogwarts Legacy",
-            "view_count": 2
-        },
-        {
-            "name": "Assassin's Creed Odyssey - Bahasa Indonesia + DLC",
-            "view_count": 2
-        },
-        {
-            "name": "Democracy 4 - Maps Expansion & Bahasa Indonesia",
-            "view_count": 1
-        },
-        {
-            "name": "Rim World - Bahasa Indonesia",
-            "view_count": 1
-        },
-        {
-            "name": "Big Ambitions - Bahasa Indonesia",
-            "view_count": 2
-        },
-        {
-            "name": "Cheat Wand / Wemmod",
-            "view_count": 1
-        },
-        {
-            "name": "Resident Evil Requiem Trainer",
-            "view_count": 1
-        },
-        {
-            "name": "House of Legacy",
-            "view_count": 1
-        },
-        {
-            "name": "Norland",
-            "view_count": 1
-        },
-        {
-            "name": "Auto Sale Life",
-            "view_count": 1
-        },
-        {
-            "name": "Red Redemption 2 - Mod Bahasa Indonesia",
-            "view_count": 1
-        },
-        {
-            "name": "Pro Basketball Manager 2026",
-            "view_count": 1
-        }
-    ]
+  "games": [
+    {
+      "name": "Resident Evil 6 - Bahasa Indonesia",
+      "view_count": 20
+    },
+    {
+      "name": "Big Ambitions",
+      "view_count": 4
+    },
+    {
+      "name": "Mount And Blade Bannerlord 2 - Bahasa Indonesia",
+      "view_count": 11
+    },
+    {
+      "name": "Resident Evil 6",
+      "view_count": 29
+    },
+    {
+      "name": "Crusader King III - Bahasa Indonesia",
+      "view_count": 3
+    },
+    {
+      "name": "PC Game Detector",
+      "view_count": 4
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "view_count": 2
+    },
+    {
+      "name": "Assassin's Creed Odyssey - Bahasa Indonesia + DLC",
+      "view_count": 2
+    },
+    {
+      "name": "Democracy 4 - Maps Expansion & Bahasa Indonesia",
+      "view_count": 1
+    },
+    {
+      "name": "Rim World - Bahasa Indonesia",
+      "view_count": 1
+    },
+    {
+      "name": "Big Ambitions - Bahasa Indonesia",
+      "view_count": 2
+    },
+    {
+      "name": "Cheat Wand / Wemmod",
+      "view_count": 1
+    },
+    {
+      "name": "Resident Evil Requiem Trainer",
+      "view_count": 1
+    },
+    {
+      "name": "House of Legacy",
+      "view_count": 2
+    },
+    {
+      "name": "Norland",
+      "view_count": 1
+    },
+    {
+      "name": "Auto Sale Life",
+      "view_count": 1
+    },
+    {
+      "name": "Red Redemption 2 - Mod Bahasa Indonesia",
+      "view_count": 1
+    },
+    {
+      "name": "Pro Basketball Manager 2026",
+      "view_count": 1
+    }
+  ]
 }
