@@ -1,20 +1,11 @@
 {
   "announcement": {
-    "title": "🎮 Game Baru Cyber Racing 2024!",
-    "message": "Game racing terbaru dengan grafis stunning telah tersedia! Nikmati pengalaman gaming yang lebih seru dengan 50+ tracks dan 100+ vehicles.",
+    "title": "Judul Pengumuman",
+    "message": "Pesan deskriptif",
     "images": [
-      {
-        "imageUrl": "https://picsum.photos/seed/cyber-racing-1/800/400.jpg",
-        "linkUrl": "https://robygaming.com/download/cyber-racing-2024"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/cyber-racing-2/800/400.jpg",
-        "linkUrl": "#"
-      },
-      {
-        "imageUrl": "https://picsum.photos/seed/cyber-racing-3/800/400.jpg",
-        "linkUrl": "https://robygaming.com/features/cyber-racing-2024"
-      }
+      {"imageUrl": "url1", "linkUrl": "link1"},
+      {"imageUrl": "url2", "linkUrl": "#"},
+      {"imageUrl": "url3", "linkUrl": "link3"}
     ]
   }
 }
