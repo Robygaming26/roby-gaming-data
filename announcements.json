@@ -1,0 +1,144 @@
+{
+  "announcements": [
+    {
+      "id": "welcome-2024",
+      "title": "🎉 Selamat Datang di Roby Gaming Launcher v3.9.9!",
+      "message": "Terima kasih telah menggunakan Roby Gaming Launcher! Versi terbaru ini hadir dengan fitur-fitur baru yang menarik:\\n\\n✨ Fitur Utama:\\n• Sistem view count real-time dengan sinkronisasi cross-device\\n• Enhanced UI dengan animasi yang lebih smooth\\n• Performance improvement untuk loading yang lebih cepat\\n• Bug fixes dan stability improvements\\n\\n🎮 Dapatkan pengalaman gaming terbaik dengan launcher kami!",
+      "imageUrl": "https://raw.githubusercontent.com/Robygaming26/roby-gaming-data/main/assets/banner-welcome.jpg",
+      "type": "success",
+      "isActive": true,
+      "startDate": "2024-03-25T00:00:00Z",
+      "endDate": "2024-04-25T23:59:59Z",
+      "links": [
+        {
+          "title": "📱 Download Mobile Version",
+          "url": "https://play.google.com/store/apps/details?id=com.robygaming.launcher",
+          "type": "primary"
+        },
+        {
+          "title": "🎥 Tutorial Penggunaan",
+          "url": "https://youtube.com/watch?v=example",
+          "type": "secondary"
+        },
+        {
+          "title": "💬 Join Discord Community",
+          "url": "https://discord.gg/robygaming",
+          "type": "primary"
+        },
+        {
+          "title": "🐛 Laporkan Bug",
+          "url": "https://github.com/Robygaming26/roby-gaming-launcher/issues",
+          "type": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "maintenance-notice",
+      "title": "🔧 Pemeliharaan Server Terjadwal",
+      "message": "Server kami akan melakukan pemeliharaan terjadwal pada:\\n\\n📅 Tanggal: 30 Maret 2024\\n⏰ Waktu: 02:00 - 04:00 WIB\\n\\n🚨 Dampak:\\n• View count tidak akan sinkron selama maintenance\\n• Data lokal akan tetap tersimpan\\n• Fitur download tetap berfungsi normal\\n\\nMohon maaf atas ketidaknyamanannya. Kami akan berusaha menyelesaikan maintenance secepat mungkin.",
+      "imageUrl": "",
+      "type": "warning",
+      "isActive": false,
+      "startDate": "2024-03-28T00:00:00Z",
+      "endDate": "2024-03-30T23:59:59Z",
+      "links": [
+        {
+          "title": "📊 Cek Status Server",
+          "url": "https://status.robygaming.com",
+          "type": "primary"
+        },
+        {
+          "title": "📧 Hubungi Support",
+          "url": "mailto:support@robygaming.com",
+          "type": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "new-game-release",
+      "title": "🎮 Game Baru Tersedia!",
+      "message": "Exciting news! Game terbaru telah ditambahkan ke koleksi kami:\\n\\n🔥 **Cyber Racing 2024**\\n• Racing game dengan grafis stunning\\n• 50+ tracks dan 100+ vehicles\\n• Multiplayer online support\\n• Compatible dengan semua devices\\n\\n🎁 Special launch promo! Dapatkan diskon 50% untuk pembelian pertama.",
+      "imageUrl": "https://raw.githubusercontent.com/Robygaming26/roby-gaming-data/main/assets/cyber-racing-banner.jpg",
+      "type": "info",
+      "isActive": true,
+      "startDate": "2024-03-20T00:00:00Z",
+      "endDate": "2024-04-20T23:59:59Z",
+      "links": [
+        {
+          "title": "🎯 Download Sekarang",
+          "url": "https://robygaming.com/download/cyber-racing-2024",
+          "type": "primary"
+        },
+        {
+          "title": "🎬 Watch Trailer",
+          "url": "https://youtube.com/watch?v=cyber-racing-trailer",
+          "type": "secondary"
+        },
+        {
+          "title": "📖 Baca Review",
+          "url": "https://robygaming.com/reviews/cyber-racing-2024",
+          "type": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "urgent-update",
+      "title": "🚨 Update Penting - Security Patch",
+      "message": "Security patch penting telah dirilis untuk melindungi data pengguna:\\n\\n🔒 Fixed Issues:\\n• Enkripsi data pengguna yang lebih kuat\\n• Patch untuk keamanan koneksi API\\n• Protection dari malware detection\\n• Secure login authentication\\n\\n⚠️ Sangat disarankan untuk update segera untuk keamanan data Anda.",
+      "imageUrl": "",
+      "type": "error",
+      "isActive": true,
+      "startDate": "2024-03-25T00:00:00Z",
+      "endDate": "2024-03-26T23:59:59Z",
+      "links": [
+        {
+          "title": "🔄 Update Sekarang",
+          "url": "https://robygaming.com/download/latest",
+          "type": "primary"
+        },
+        {
+          "title": "📋 Changelog Lengkap",
+          "url": "https://robygaming.com/changelog/v3.9.9",
+          "type": "secondary"
+        },
+        {
+          "title": "🔐 Security Report",
+          "url": "https://robygaming.com/security/patch-2024-03",
+          "type": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "event-announcement",
+      "title": "🎊 Easter Gaming Event 2024!",
+      "message": "Merayakan Easter dengan event gaming spesial! 🐰\\n\\n🎁 Event Rewards:\\n• 2X EXP Points untuk semua game\\n• Exclusive Easter skins & items\\n• Special tournament dengan prize pool \\$1000\\n• Free daily gifts selama event\\n\\n📅 Event Duration: 28 Maret - 10 April 2024\\nJangan lewatkan kesempatan emas ini!",
+      "imageUrl": "https://raw.githubusercontent.com/Robygaming26/roby-gaming-data/main/assets/easter-event-banner.jpg",
+      "type": "info",
+      "isActive": false,
+      "startDate": "2024-03-28T00:00:00Z",
+      "endDate": "2024-04-10T23:59:59Z",
+      "links": [
+        {
+          "title": "🎮 Join Event Sekarang",
+          "url": "https://robygaming.com/events/easter-2024",
+          "type": "primary"
+        },
+        {
+          "title": "🏆 Tournament Registration",
+          "url": "https://robygaming.com/tournament/easter-cup-2024",
+          "type": "primary"
+        },
+        {
+          "title": "📱 Mobile Event App",
+          "url": "https://play.google.com/store/apps/details?id=com.robygaming.events",
+          "type": "secondary"
+        },
+        {
+          "title": "💬 Event Discord",
+          "url": "https://discord.gg/easter-event-2024",
+          "type": "secondary"
+        }
+      ]
+    }
+  ]
+}
