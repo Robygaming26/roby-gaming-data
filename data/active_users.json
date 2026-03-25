@@ -102,15 +102,15 @@
     },
     {
       "device_id": "android-588746966-1774425006833",
-      "last_activity": "2026-03-25T15:50:09.500718",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-03-25T15:50:19.094151",
       "platform": "android",
       "device_type": "android-mobile",
-      "app_version": "1.0.0"
+      "session_start": "2026-03-25T15:51:30.246807",
+      "last_activity": "2026-03-25T15:51:30.247093",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
     }
   ],
-  "last_updated": "2026-03-25T15:50:19.094191",
+  "last_updated": "2026-03-25T15:51:31.205638",
   "total_active": 11
 }
