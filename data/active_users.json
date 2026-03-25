@@ -4,13 +4,13 @@
       "device_id": "windows-629659540-1774372414313",
       "platform": "windows",
       "device_type": "windows-desktop",
-      "session_start": "2026-03-25T16:11:22.746429",
-      "last_activity": "2026-03-25T16:11:22.747950",
+      "session_start": "2026-03-25T16:10:57.307374",
+      "last_activity": "2026-03-25T16:11:23.823755",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-25T16:11:23.343813",
+  "last_updated": "2026-03-25T16:11:24.349739",
   "total_active": 1
 }
