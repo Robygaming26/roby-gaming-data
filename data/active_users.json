@@ -1,13 +1,6 @@
 {
   "active_users": [
     {
-      "session_id": "fallback",
-      "platform": "unknown",
-      "start_time": "2026-03-26T14:03:46.526565",
-      "last_activity": "2026-03-26T14:03:46.526565",
-      "is_active": true
-    },
-    {
       "device_id": "android-588746966-1774500898462",
       "platform": "android",
       "device_type": "android-mobile",
@@ -28,6 +21,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-26T14:09:22.110485",
-  "total_active": 3
+  "last_updated": "2026-03-26T14:09:37.253839",
+  "total_active": 2
 }
