@@ -5,22 +5,12 @@
       "platform": "android",
       "device_type": "android-mobile",
       "session_start": "2026-03-26T12:57:12.788283",
-      "last_activity": "2026-03-26T13:00:15.722821",
+      "last_activity": "2026-03-26T13:00:45.723994",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
-    },
-    {
-      "device_id": "windows-629659540-1774372414313",
-      "last_activity": "2026-03-26T13:00:46.409036",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-03-26T13:00:44.713124",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-03-26T13:00:47.433991",
-  "total_active": 2
+  "last_updated": "2026-03-26T13:00:46.476854",
+  "total_active": 1
 }
