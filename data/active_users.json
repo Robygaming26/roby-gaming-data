@@ -1,23 +1,5 @@
 {
-  "active_users": [
-    {
-      "session_id": "fallback",
-      "platform": "unknown",
-      "start_time": "2026-03-26T22:18:31.896685",
-      "last_activity": "2026-03-26T22:18:31.896693",
-      "is_active": true
-    },
-    {
-      "device_id": "android-588746966-1774507012518",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "session_start": "2026-03-26T23:56:30.110851",
-      "last_activity": "2026-03-26T23:56:45.118695",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    }
-  ],
-  "last_updated": "2026-03-26T23:56:45.853018",
-  "total_active": 2
+  "active_users": [],
+  "last_updated": "2026-03-26T23:59:52.366359",
+  "total_active": 0
 }
