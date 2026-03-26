@@ -12,7 +12,7 @@
       "platform": "android",
       "device_type": "android-mobile",
       "session_start": "2026-03-26T14:07:42.568480",
-      "last_activity": "2026-03-26T14:08:48.292367",
+      "last_activity": "2026-03-26T14:09:18.294246",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
@@ -22,12 +22,12 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "session_start": "2026-03-26T14:09:06.009483",
-      "last_activity": "2026-03-26T14:09:17.974674",
+      "last_activity": "2026-03-26T14:09:15.292330",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-26T14:09:18.606268",
+  "last_updated": "2026-03-26T14:09:22.110485",
   "total_active": 3
 }
