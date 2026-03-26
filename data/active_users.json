@@ -5,7 +5,7 @@
       "platform": "android",
       "device_type": "android-mobile",
       "session_start": "2026-03-26T14:07:42.568480",
-      "last_activity": "2026-03-26T14:15:18.293936",
+      "last_activity": "2026-03-26T14:15:48.294177",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
@@ -21,6 +21,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-26T14:15:19.520933",
+  "last_updated": "2026-03-26T14:15:49.106848",
   "total_active": 2
 }
