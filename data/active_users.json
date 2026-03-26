@@ -1,26 +1,23 @@
 {
   "active_users": [
     {
-      "device_id": "android-588746966-1774500898462",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "session_start": "2026-03-26T14:07:42.568480",
-      "last_activity": "2026-03-26T14:22:18.294083",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
+      "session_id": "fallback",
+      "platform": "unknown",
+      "start_time": "2026-03-26T14:22:58.295613",
+      "last_activity": "2026-03-26T14:22:58.295650",
+      "is_active": true
     },
     {
-      "device_id": "windows-629659540-1774372414313",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-03-26T14:21:05.157868",
-      "last_activity": "2026-03-26T14:22:41.245582",
+      "device_id": "android-588746966-1774500898462",
+      "last_activity": "2026-03-26T14:22:48.292510",
       "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
+      "status": "online",
+      "session_start": "2026-03-26T14:22:58.295715",
+      "platform": "android",
+      "device_type": "android-mobile",
+      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-03-26T14:22:42.270184",
+  "last_updated": "2026-03-26T14:22:58.296812",
   "total_active": 2
 }
