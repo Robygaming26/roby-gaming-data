@@ -3,21 +3,21 @@
     {
       "session_id": "fallback",
       "platform": "unknown",
-      "start_time": "2026-03-31T02:34:30.204532",
-      "last_activity": "2026-03-31T02:34:30.204610",
+      "start_time": "2026-03-31T02:36:00.205457",
+      "last_activity": "2026-03-31T02:36:00.205786",
       "is_active": true
     },
     {
       "device_id": "android-588746966-1774899143515",
-      "last_activity": "2026-03-31T02:35:20.200346",
+      "last_activity": "2026-03-31T02:35:50.200426",
       "is_active": true,
       "status": "online",
-      "session_start": "2026-03-31T02:34:30.204664",
+      "session_start": "2026-03-31T02:36:00.206021",
       "platform": "android",
       "device_type": "android-mobile",
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-03-31T02:35:20.613345",
+  "last_updated": "2026-03-31T02:36:00.206587",
   "total_active": 2
 }
