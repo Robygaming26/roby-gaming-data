@@ -1,6 +1,5 @@
 {
   "games": [
-"games": [
     {
       "name": "Norland",
       "view_count": 18
@@ -13,8 +12,8 @@
       "name": "Norland - Bahasa Indonesia",
       "view_count": 4
     },
-{
-"name": "House of Legacy",
+    {
+      "name": "House of Legacy",
       "view_count": 24
     },
     {
@@ -101,12 +100,9 @@
       "name": "Ultra Battle v1.08",
       "view_count": 1
     },
-{
-"name": "House Of Legacy Trainer",
-"view_count": 1
-    }
-  ]
-}
+    {
+    "name": "House Of Legacy Trainer",
+    "view_count": 1
     },
     {
       "name": "House of Legacy Cheat Engine",
@@ -122,6 +118,8 @@
     },
     {
       "name": "The Precinct",
-"view_count": 1
+    "view_count": 1
+    }
+  ]
 }
-]
+
