@@ -2,7 +2,7 @@
   "active_users": [
     {
       "device_id": "android-588746966-1774507012518",
-      "last_activity": "2026-03-31T09:10:08.864445",
+      "last_activity": "2026-03-31T09:09:38.864514",
       "is_active": true,
       "status": "online",
       "session_start": "2026-03-31T09:08:59.611308",
@@ -15,12 +15,12 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "session_start": "2026-03-31T09:09:33.952324",
-      "last_activity": "2026-03-31T09:09:45.676840",
+      "last_activity": "2026-03-31T09:10:09.958293",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-03-31T09:10:09.415257",
+  "last_updated": "2026-03-31T09:10:10.589557",
   "total_active": 2
 }
