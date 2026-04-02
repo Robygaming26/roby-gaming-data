@@ -3,21 +3,21 @@
     {
       "session_id": "fallback",
       "platform": "unknown",
-      "start_time": "2026-04-02T15:28:15.858846",
-      "last_activity": "2026-04-02T15:28:15.858846",
+      "start_time": "2026-04-02T15:29:12.100012",
+      "last_activity": "2026-04-02T15:29:12.100012",
       "is_active": true
     },
     {
       "device_id": "windows-629659540-1774952896512",
-      "last_activity": "2026-04-02T15:29:07.185511",
+      "last_activity": "2026-04-02T15:29:02.096860",
       "is_active": true,
       "status": "online",
-      "session_start": "2026-04-02T15:28:15.858846",
+      "session_start": "2026-04-02T15:29:12.100012",
       "platform": "windows",
       "device_type": "windows-desktop",
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-02T15:29:07.815337",
+  "last_updated": "2026-04-02T15:29:12.100012",
   "total_active": 2
 }
