@@ -12,7 +12,7 @@
     },
     {
       "device_id": "android-588746966-1775229816163",
-      "last_activity": "2026-04-04T11:45:09.208087",
+      "last_activity": "2026-04-04T11:45:39.209983",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-04T11:41:40.120939",
@@ -21,6 +21,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-04T11:45:09.982600",
+  "last_updated": "2026-04-04T11:45:39.766935",
   "total_active": 2
 }
