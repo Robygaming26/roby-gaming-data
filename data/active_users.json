@@ -15,12 +15,12 @@
       "platform": "android",
       "device_type": "android-mobile",
       "session_start": "2026-04-07T22:35:10.670125",
-      "last_activity": "2026-04-07T22:35:10.670138",
-      "is_active": false,
+      "last_activity": "2026-04-07T22:38:15.412406",
+      "is_active": true,
       "app_version": "1.0.0",
-      "status": "idle"
+      "status": "online"
     }
   ],
-  "last_updated": "2026-04-07T22:37:43.636262",
-  "total_active": 1
+  "last_updated": "2026-04-07T22:38:16.185912",
+  "total_active": 2
 }
