@@ -69,7 +69,7 @@
     },
     {
       "device_id": "android-588746966-1775571753454",
-      "last_activity": "2026-04-07T22:23:47.985968",
+      "last_activity": "2026-04-07T22:23:37.203057",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-07T22:22:39.255579",
@@ -82,12 +82,12 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "session_start": "2026-04-07T22:23:16.535683",
-      "last_activity": "2026-04-07T22:23:29.222761",
+      "last_activity": "2026-04-07T22:23:49.913768",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-07T22:23:51.857796",
+  "last_updated": "2026-04-07T22:23:53.732023",
   "total_active": 9
 }
