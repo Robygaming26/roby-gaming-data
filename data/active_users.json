@@ -22,15 +22,15 @@
     },
     {
       "device_id": "windows-629659540-1774952896512",
-      "last_activity": "2026-04-07T19:57:12.605101",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-07T19:57:13.737839",
       "platform": "windows",
       "device_type": "windows-desktop",
-      "app_version": "1.0.0"
+      "session_start": "2026-04-07T19:57:11.478948",
+      "last_activity": "2026-04-07T19:57:11.478948",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
     }
   ],
-  "last_updated": "2026-04-07T19:57:13.737839",
+  "last_updated": "2026-04-07T19:57:12.119362",
   "total_active": 3
 }
