@@ -1,36 +1,23 @@
 {
   "active_users": [
     {
-      "device_id": "windows-629659540-1774952896512",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-07T16:58:00.254825",
-      "last_activity": "2026-04-07T17:12:05.492651",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
-      "device_id": "windows-629659540-1775457305154",
-      "last_activity": "2026-04-07T16:13:52.408044",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-07T16:11:53.210449",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
+      "session_id": "fallback",
+      "platform": "unknown",
+      "start_time": "2026-04-07T17:13:53.276993",
+      "last_activity": "2026-04-07T17:13:53.277024",
+      "is_active": true
     },
     {
       "device_id": "android-588746966-1775553205108",
+      "last_activity": "2026-04-07T17:13:43.274565",
+      "is_active": true,
+      "status": "online",
+      "session_start": "2026-04-07T17:13:53.277342",
       "platform": "android",
       "device_type": "android-mobile",
-      "session_start": "2026-04-07T17:13:41.969876",
-      "last_activity": "2026-04-07T17:13:41.969909",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
+      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-07T16:13:52.795300",
-  "total_active": 3
+  "last_updated": "2026-04-07T17:13:53.277590",
+  "total_active": 2
 }
