@@ -22,7 +22,7 @@
     },
     {
       "device_id": "windows-629659540-1775839137524",
-      "last_activity": "2026-04-10T23:47:30.944832",
+      "last_activity": "2026-04-10T23:47:00.939337",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-10T23:44:31.452721",
@@ -32,7 +32,7 @@
     },
     {
       "device_id": "windows-629659540-1775838059102",
-      "last_activity": "2026-04-10T23:47:05.302812",
+      "last_activity": "2026-04-10T23:47:35.310403",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-10T23:44:37.663210",
@@ -51,6 +51,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-10T23:47:32.743172",
+  "last_updated": "2026-04-10T23:47:35.957716",
   "total_active": 5
 }
