@@ -3,34 +3,14 @@
     {
       "device_id": "windows-629659540-1774952896512",
       "last_activity": "2026-04-10T23:36:48.417455",
-      "is_active": true,
-      "status": "online",
+      "is_active": false,
+      "status": "idle",
       "session_start": "2026-04-10T23:29:45.410129",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775834296427",
-      "last_activity": "2026-04-10T22:37:17.921917",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T22:35:48.283473",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775834874826",
-      "last_activity": "2026-04-10T22:39:30.663280",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T22:38:01.283266",
       "platform": "windows",
       "device_type": "windows-desktop",
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-10T22:39:31.675565",
-  "total_active": 3
+  "last_updated": "2026-04-10T23:37:48.973668",
+  "total_active": 0
 }
