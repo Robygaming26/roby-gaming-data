@@ -1,65 +1,6 @@
 {
   "active_users": [
     {
-      "session_id": "fallback",
-      "platform": "unknown",
-      "start_time": "2026-04-10T19:22:45.657285",
-      "last_activity": "2026-04-10T22:18:15.691899",
-      "is_active": true,
-      "device_id": null,
-      "status": "online"
-    },
-    {
-      "device_id": "windows-629659540-1774952896512",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-10T19:24:28.823630",
-      "last_activity": "2026-04-10T19:30:36.117826",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
-      "device_id": null,
-      "last_activity": "2026-04-10T19:25:43.032034",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T19:25:47.068478",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "android-588746966-1775820343462",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "session_start": "2026-04-10T20:47:43.319243",
-      "last_activity": "2026-04-10T20:48:51.560962",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
-      "device_id": "windows-629659540-1775834176743",
-      "last_activity": "2026-04-10T22:17:19.410438",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T22:16:17.864256",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775834261448",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-10T22:17:41.449238",
-      "last_activity": "2026-04-10T22:17:41.449238",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
       "device_id": "windows-629659540-1775834296427",
       "last_activity": "2026-04-10T22:19:47.912573",
       "is_active": true,
@@ -70,6 +11,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-10T22:19:48.740169",
-  "total_active": 7
+  "last_updated": "2026-04-10T22:20:18.380737",
+  "total_active": 1
 }
