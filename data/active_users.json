@@ -40,16 +40,16 @@
       "app_version": "1.0.0"
     },
     {
-      "device_id": "windows-629659540-1774952896512",
+      "device_id": null,
       "platform": "windows",
       "device_type": "windows-desktop",
       "session_start": "2026-04-10T15:34:45.929161",
-      "last_activity": "2026-04-10T16:06:00.297623",
+      "last_activity": "2026-04-10T16:06:18.762566",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-10T16:06:05.166618",
+  "last_updated": "2026-04-10T16:06:19.515096",
   "total_active": 5
 }
