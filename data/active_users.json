@@ -19,38 +19,8 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775839137524",
-      "last_activity": "2026-04-10T23:48:00.935923",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T23:44:31.452721",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775838059102",
-      "last_activity": "2026-04-10T23:48:05.306128",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T23:44:37.663210",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775246219065",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-10T23:47:10.448353",
-      "last_activity": "2026-04-10T23:48:12.059945",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
     }
   ],
-  "last_updated": "2026-04-10T23:48:12.425482",
-  "total_active": 5
+  "last_updated": "2026-04-10T23:50:26.939070",
+  "total_active": 2
 }
