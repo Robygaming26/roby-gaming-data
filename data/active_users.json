@@ -26,8 +26,18 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "app_version": "1.0.0"
+    },
+    {
+      "device_id": "windows-629659540-1775834874826",
+      "last_activity": "2026-04-10T22:41:30.654232",
+      "is_active": true,
+      "status": "online",
+      "session_start": "2026-04-10T22:41:31.154346",
+      "platform": "windows",
+      "device_type": "windows-desktop",
+      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-10T22:39:18.321839",
-  "total_active": 3
+  "last_updated": "2026-04-10T22:41:31.154346",
+  "total_active": 4
 }
