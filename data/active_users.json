@@ -3,31 +3,21 @@
     {
       "session_id": "fallback",
       "platform": "unknown",
-      "start_time": "2026-04-10T13:00:26.123846",
-      "last_activity": "2026-04-10T13:00:26.123846",
+      "start_time": "2026-04-10T13:18:26.473598",
+      "last_activity": "2026-04-10T13:18:26.473615",
       "is_active": true
     },
     {
-      "device_id": "windows-629659540-1774952896512",
-      "last_activity": "2026-04-10T13:01:16.120083",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T13:00:26.123846",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
       "device_id": "android-588746966-1775571753454",
-      "last_activity": "2026-04-10T13:18:18.623110",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T13:18:22.211222",
       "platform": "android",
       "device_type": "android-mobile",
-      "app_version": "1.0.0"
+      "session_start": "2026-04-10T13:18:16.470959",
+      "last_activity": "2026-04-10T13:18:16.470968",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
     }
   ],
-  "last_updated": "2026-04-10T13:18:22.211272",
-  "total_active": 3
+  "last_updated": "2026-04-10T13:18:26.473711",
+  "total_active": 2
 }
