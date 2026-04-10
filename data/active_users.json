@@ -9,7 +9,7 @@
     },
     {
       "device_id": "windows-629659540-1775843039117",
-      "last_activity": "2026-04-10T10:46:19.171206",
+      "last_activity": "2026-04-10T10:46:49.151557",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-10T10:44:59.278686",
@@ -19,7 +19,7 @@
     },
     {
       "device_id": "windows-629659540-1775834874826",
-      "last_activity": "2026-04-11T00:48:56.515456",
+      "last_activity": "2026-04-11T00:47:56.519499",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-11T00:47:27.021872",
@@ -28,6 +28,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-11T00:48:56.918486",
+  "last_updated": "2026-04-10T10:46:51.416123",
   "total_active": 3
 }
