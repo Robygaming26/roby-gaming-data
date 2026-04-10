@@ -4,7 +4,7 @@
       "session_id": "fallback",
       "platform": "unknown",
       "start_time": "2026-04-10T13:58:48.873172",
-      "last_activity": "2026-04-10T15:56:15.965741",
+      "last_activity": "2026-04-10T15:57:46.350489",
       "is_active": true,
       "device_id": null,
       "status": "online"
@@ -50,6 +50,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-10T15:56:16.995491",
+  "last_updated": "2026-04-10T15:57:47.116983",
   "total_active": 5
 }
