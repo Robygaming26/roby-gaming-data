@@ -2,7 +2,7 @@
   "active_users": [
     {
       "device_id": "windows-629659540-1774952896512",
-      "last_activity": "2026-04-10T23:31:18.407260",
+      "last_activity": "2026-04-10T23:34:18.418347",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-10T23:29:45.410129",
@@ -19,18 +19,8 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775834296427",
-      "last_activity": "2026-04-10T22:34:17.918183",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-10T22:34:18.624803",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-10T22:34:18.624803",
-  "total_active": 3
+  "last_updated": "2026-04-10T23:34:22.075859",
+  "total_active": 2
 }
