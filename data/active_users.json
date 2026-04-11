@@ -15,7 +15,7 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "session_start": "2026-04-12T00:03:20.589828",
-      "last_activity": "2026-04-12T00:04:27.951458",
+      "last_activity": "2026-04-12T00:04:24.131672",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
@@ -25,12 +25,12 @@
       "platform": "android",
       "device_type": "android-mobile",
       "session_start": "2026-04-12T00:03:28.808152",
-      "last_activity": "2026-04-12T00:03:28.808167",
+      "last_activity": "2026-04-12T00:04:25.951196",
       "is_active": true,
       "app_version": "1.0.0",
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-12T00:04:30.372414",
+  "last_updated": "2026-04-12T00:04:31.792404",
   "total_active": 3
 }
