@@ -29,7 +29,7 @@
     },
     {
       "device_id": "windows-629659540-1774952896512",
-      "last_activity": "2026-04-12T22:40:00.313418",
+      "last_activity": "2026-04-12T22:40:02.486927",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-12T22:40:00.845233",
@@ -38,6 +38,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-12T22:40:00.845233",
+  "last_updated": "2026-04-12T22:40:03.078623",
   "total_active": 4
 }
