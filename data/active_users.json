@@ -1,35 +1,16 @@
 {
   "active_users": [
     {
-      "session_id": "fallback",
-      "platform": "unknown",
-      "start_time": "2026-04-13T02:58:44.591716",
-      "last_activity": "2026-04-13T02:10:29.140634",
-      "is_active": true,
-      "device_id": null,
-      "status": "online"
-    },
-    {
       "device_id": "android-588746966-1775820343462",
-      "last_activity": "2026-04-13T03:13:26.518340",
+      "last_activity": "2026-04-13T03:13:06.256077",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-13T02:58:44.591732",
       "platform": "android",
       "device_type": "android-mobile",
       "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1776021029689",
-      "last_activity": "2026-04-13T02:13:01.140830",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-13T02:10:50.319013",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-13T03:13:27.362529",
-  "total_active": 3
+  "last_updated": "2026-04-13T03:13:27.682997",
+  "total_active": 1
 }
