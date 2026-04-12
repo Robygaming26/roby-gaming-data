@@ -1,23 +1,6 @@
 {
   "active_users": [
     {
-      "session_id": "fallback",
-      "platform": "unknown",
-      "start_time": "2026-04-12T21:02:17.443474",
-      "last_activity": "2026-04-12T21:02:17.443474",
-      "is_active": true
-    },
-    {
-      "device_id": "windows-629659540-1775999285742",
-      "last_activity": "2026-04-12T21:23:37.420557",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-12T21:02:17.443474",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
       "device_id": null,
       "last_activity": "2026-04-12T22:39:51.988070",
       "is_active": true,
@@ -68,6 +51,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-12T22:57:26.170770",
-  "total_active": 7
+  "last_updated": "2026-04-12T21:57:26.047935",
+  "total_active": 5
 }
