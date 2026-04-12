@@ -4,8 +4,10 @@
       "session_id": "fallback",
       "platform": "unknown",
       "start_time": "2026-04-13T02:58:44.591716",
-      "last_activity": "2026-04-13T02:58:44.591720",
-      "is_active": true
+      "last_activity": "2026-04-13T02:10:29.140634",
+      "is_active": true,
+      "device_id": null,
+      "status": "online"
     },
     {
       "device_id": "android-588746966-1775820343462",
@@ -18,6 +20,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-13T03:10:06.127352",
+  "last_updated": "2026-04-13T02:10:29.511155",
   "total_active": 2
 }
