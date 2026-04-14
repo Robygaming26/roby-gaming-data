@@ -1,26 +1,6 @@
 {
   "active_users": [
     {
-      "device_id": "windows-629659540-1775653924164",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-14T00:12:48.647466",
-      "last_activity": "2026-04-14T00:52:51.060848",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
-      "device_id": null,
-      "last_activity": "2026-04-14T09:48:26.274540",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-14T01:09:22.739837",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
       "device_id": "windows-629659540-1774952896512",
       "last_activity": "2026-04-14T09:49:58.535243",
       "is_active": true,
@@ -31,6 +11,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-14T09:49:59.109971",
-  "total_active": 3
+  "last_updated": "2026-04-14T09:50:29.629180",
+  "total_active": 1
 }
