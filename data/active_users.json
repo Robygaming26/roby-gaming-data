@@ -32,7 +32,7 @@
     },
     {
       "device_id": null,
-      "last_activity": "2026-04-15T23:35:09.820037",
+      "last_activity": "2026-04-16T11:43:13.758552",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-15T23:35:10.433801",
@@ -61,6 +61,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-16T08:09:35.115874",
+  "last_updated": "2026-04-16T11:43:14.368923",
   "total_active": 6
 }
