@@ -1,76 +1,6 @@
 {
   "active_users": [
     {
-      "device_id": "windows-629659540-1774952896512",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-17T10:12:03.421663",
-      "last_activity": "2026-04-17T10:26:38.079031",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
-      "device_id": "android-588746966-1776419686234",
-      "last_activity": "2026-04-17T12:56:18.664770",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-17T12:54:48.665265",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1776422883717",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-17T17:48:03.723724",
-      "last_activity": "2026-04-17T17:50:35.649073",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
-      "device_id": null,
-      "last_activity": "2026-04-17T18:16:35.688399",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-17T18:16:36.549174",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "android-588746966-1776300526471",
-      "last_activity": "2026-04-17T18:19:38.950762",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-17T18:16:47.330973",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "android-588746966-1775820343462",
-      "last_activity": "2026-04-18T00:51:50.011844",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T00:50:45.831730",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": null,
-      "last_activity": "2026-04-18T00:56:16.939537",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T00:56:17.464152",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
       "device_id": "android-588746966-1774683269818",
       "last_activity": "2026-04-18T00:57:58.554373",
       "is_active": true,
@@ -81,6 +11,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-18T00:57:59.625663",
-  "total_active": 8
+  "last_updated": "2026-04-18T00:58:19.822267",
+  "total_active": 1
 }
