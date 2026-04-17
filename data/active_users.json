@@ -9,8 +9,18 @@
       "platform": "windows",
       "device_type": "windows-desktop",
       "app_version": "1.0.0"
+    },
+    {
+      "device_id": "windows-629659540-1775783711041",
+      "platform": "windows",
+      "device_type": "windows-desktop",
+      "session_start": "2026-04-18T05:46:19.617615",
+      "last_activity": "2026-04-18T05:46:19.617615",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
     }
   ],
-  "last_updated": "2026-04-18T03:04:27.704629",
-  "total_active": 1
+  "last_updated": "2026-04-18T05:46:20.032821",
+  "total_active": 2
 }
