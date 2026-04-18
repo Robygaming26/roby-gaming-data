@@ -2,7 +2,7 @@
   "active_users": [
     {
       "device_id": "windows-629659540-1776337429272",
-      "last_activity": "2026-04-18T14:18:12.479336",
+      "last_activity": "2026-04-18T14:18:25.422062",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-18T13:49:14.870573",
@@ -31,6 +31,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-18T12:21:14.806746",
+  "last_updated": "2026-04-18T14:18:26.055992",
   "total_active": 3
 }
