@@ -2,7 +2,7 @@
   "active_users": [
     {
       "device_id": null,
-      "last_activity": "2026-04-19T01:16:47.295826",
+      "last_activity": "2026-04-19T01:59:07.811367",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-19T01:14:33.534213",
@@ -21,6 +21,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-19T01:21:50.450997",
+  "last_updated": "2026-04-19T01:59:08.256156",
   "total_active": 2
 }
