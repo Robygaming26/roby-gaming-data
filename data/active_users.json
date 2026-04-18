@@ -1,16 +1,6 @@
 {
   "active_users": [
     {
-      "device_id": "windows-629659540-1775256322423",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "session_start": "2026-04-19T01:17:47.474908",
-      "last_activity": "2026-04-19T02:08:09.639202",
-      "is_active": true,
-      "app_version": "1.0.0",
-      "status": "online"
-    },
-    {
       "device_id": "windows-629659540-1776334760956",
       "platform": "windows",
       "device_type": "windows-desktop",
@@ -21,6 +11,6 @@
       "status": "online"
     }
   ],
-  "last_updated": "2026-04-19T04:52:53.124195",
-  "total_active": 2
+  "last_updated": "2026-04-19T04:53:23.550330",
+  "total_active": 1
 }
