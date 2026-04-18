@@ -39,8 +39,18 @@
       "platform": "android",
       "device_type": "android-mobile",
       "app_version": "1.0.0"
+    },
+    {
+      "device_id": "windows-629659540-1774952896512",
+      "last_activity": "2026-04-18T13:21:25.635591",
+      "is_active": true,
+      "status": "online",
+      "session_start": "2026-04-18T13:21:26.925883",
+      "platform": "windows",
+      "device_type": "windows-desktop",
+      "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-18T13:21:12.534122",
-  "total_active": 4
+  "last_updated": "2026-04-18T13:21:26.925883",
+  "total_active": 5
 }
