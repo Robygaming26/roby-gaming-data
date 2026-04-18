@@ -11,16 +11,16 @@
       "app_version": "1.0.0"
     },
     {
-      "device_id": null,
-      "last_activity": "2026-04-18T22:25:56.422587",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T22:25:57.037568",
+      "device_id": "android-588746966-1776522356660",
       "platform": "android",
       "device_type": "android-mobile",
-      "app_version": "1.0.0"
+      "session_start": "2026-04-18T22:25:56.660992",
+      "last_activity": "2026-04-18T22:25:56.661002",
+      "is_active": true,
+      "app_version": "1.0.0",
+      "status": "online"
     }
   ],
-  "last_updated": "2026-04-18T22:25:57.037593",
+  "last_updated": "2026-04-18T22:25:57.258779",
   "total_active": 2
 }
