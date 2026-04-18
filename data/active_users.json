@@ -1,66 +1,23 @@
 {
   "active_users": [
     {
-      "device_id": null,
-      "last_activity": "2026-04-18T13:21:11.919805",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T01:51:43.273386",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1775783711041",
-      "last_activity": "2026-04-18T05:46:51.296495",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T05:46:20.747174",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": null,
-      "last_activity": "2026-04-18T06:25:24.401638",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T06:24:41.970641",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "android-588746966-1776300526471",
-      "last_activity": "2026-04-18T06:25:01.940702",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T06:24:49.523084",
-      "platform": "android",
-      "device_type": "android-mobile",
-      "app_version": "1.0.0"
-    },
-    {
-      "device_id": "windows-629659540-1774952896512",
-      "last_activity": "2026-04-18T13:21:44.204869",
-      "is_active": true,
-      "status": "online",
-      "session_start": "2026-04-18T13:21:26.925883",
-      "platform": "windows",
-      "device_type": "windows-desktop",
-      "app_version": "1.0.0"
+      "session_id": "fallback",
+      "platform": "unknown",
+      "start_time": "2026-04-18T11:39:54.257628",
+      "last_activity": "2026-04-18T11:39:54.257628",
+      "is_active": true
     },
     {
       "device_id": "windows-629659540-1776334760956",
-      "last_activity": "2026-04-18T11:38:42.285952",
+      "last_activity": "2026-04-18T11:39:44.256126",
       "is_active": true,
       "status": "online",
-      "session_start": "2026-04-18T11:38:51.549376",
+      "session_start": "2026-04-18T11:39:54.257628",
       "platform": "windows",
       "device_type": "windows-desktop",
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-18T11:38:51.549376",
-  "total_active": 6
+  "last_updated": "2026-04-18T11:39:54.257628",
+  "total_active": 2
 }
