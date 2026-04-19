@@ -2,7 +2,7 @@
   "active_users": [
     {
       "device_id": "android-588746966-1774683269818",
-      "last_activity": "2026-04-19T12:22:08.116504",
+      "last_activity": "2026-04-19T12:22:27.349453",
       "is_active": true,
       "status": "online",
       "session_start": "2026-04-19T11:56:22.261205",
@@ -11,6 +11,6 @@
       "app_version": "1.0.0"
     }
   ],
-  "last_updated": "2026-04-19T12:22:09.338852",
+  "last_updated": "2026-04-19T12:22:28.041896",
   "total_active": 1
 }
